@@ -10,5 +10,5 @@ ln -sf ~/src/dotfiles/.vim ~/.vim
 # Handle kali
 if [ "$(uname -a | grep -i kali)" ]; then
     # Kali-specific configurations
-    ln -sf ~/dotfiles/kali/.bash_aliases ~/.bash_aliases
+    ln -sf ~/src/dotfiles/kali/.bash_aliases ~/.bash_aliases
 fi
