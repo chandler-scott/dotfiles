@@ -1,0 +1,10 @@
+export HARD_DRIVE=/hard_drive
+export SRC=$HARD_DRIVE/src
+export SCRIPTS=$SRC/scripts
+export SCHOOL=$HARD_DRIVE/school
+export NOTES=$HARD_DRIVE/notes
+export AI=$HARD_DRIVE/src/ai
+export OMNET=/opt/omnetpp-6.0.3
+export UE4_ROOT=/opt/UnrealEngine
+
+alias etsu-vpn='/opt/cisco/anyconnect/bin/vpnui'

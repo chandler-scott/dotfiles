@@ -1,0 +1,12 @@
+let g:netrw_dirhistmax  =10
+let g:netrw_dirhistcnt =3
+let g:netrw_dirhist_3='/home/chandler/Documents/class_notes/unix'
+let g:netrw_dirhist_2='/hard_drive/src/chandler-scott.github.io/_posts/linux'
+let g:netrw_dirhist_1='/hard_drive/src/chandler-scott.github.io/_posts'
+let g:netrw_dirhist_0='/hard_drive/src/chandler-scott.github.io'
+let g:netrw_dirhist_9='/hard_drive/src/chandler-scott.github.io/_layouts'
+let g:netrw_dirhist_8='/hard_drive/src/chandler-scott.github.io'
+let g:netrw_dirhist_7='/hard_drive/src/chandler-scott.github.io/_pages'
+let g:netrw_dirhist_6='/hard_drive/src/chandler-scott.github.io'
+let g:netrw_dirhist_5='/hard_drive/src/chandler-scott.github.io/_pages'
+let g:netrw_dirhist_4='/hard_drive/src/chandler-scott.github.io'
