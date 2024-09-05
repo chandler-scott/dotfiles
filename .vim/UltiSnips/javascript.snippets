@@ -1,0 +1,68 @@
+extends html
+
+snippet template "React Functional Component Base" b
+import React from 'react';
+
+function ${1:COMPONENT_NAME}(${2:PROPS}) {
+  return (
+    <>
+      {/* JSX goes here */}
+    </>
+  );
+}
+   
+export default $1;
+endsnippet
+
+snippet template "React Functional Component with useState and useEffect" b
+import React, { useState, useEffect } from 'react';
+
+function ${1:COMPONENT_NAME}(${2:PROPS}) {
+  // Example state
+  const [state, setState] = useState(${3:INITIAL_STATE});
+  
+  // Example effect
+  useEffect(() => {
+    // Side effect code here
+    return () => {
+      // Cleanup (if needed)
+    };
+  }, [${4:DEPENDENCIES}]);
+   
+  return (
+    <>
+      {/* JSX goes here */}
+    </>
+  );
+}
+   
+export default $1;
+endsnippet
+
+snippet wc "Web Component" b
+class ${1:MyComponent} extends HTMLElement {
+    constructor() {
+        super();
+        this.attachShadow({ mode: 'open' });
+        this.shadowRoot.innerHTML = `
+            <style>
+                :host {
+                    display: block;
+                    padding: 10px;
+                    border: 1px solid #ccc;
+                    border-radius: 5px;
+                    background-color: #f9f9f9;
+                    font-family: Arial, sans-serif;
+                }
+                ${2:/* Additional styles here */}
+            </style>
+            <div>
+                ${3:<!-- Component content here -->}
+            </div>
+        `;
+    }
+}
+
+customElements.define('${4:my-component}', ${1:MyComponent});
+endsnippet
+

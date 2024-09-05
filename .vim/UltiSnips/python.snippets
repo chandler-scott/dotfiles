@@ -1,0 +1,53 @@
+snippet fn "Function definition" b
+def ${1:function_name}(${2:params}):
+    """${3:Docstring.}"""
+    ${4:pass}
+endsnippet
+
+snippet class "Class definition" b
+class ${1:ClassName}(${2:object}):
+    """${3:Class docstring.}"""
+    
+    def __init__(self, ${4:params}):
+        ${5:pass}
+endsnippet
+
+snippet if "if-statement" b
+if ${1:condition}:
+    ${2:pass}
+endsnippet
+
+snippet for "for-loop" b
+for ${1:var} in range(${2:end}):
+    ${3:pass}
+endsnippet
+
+snippet import "import statement" b
+import ${1:module}
+endsnippet
+
+snippet main "main block" b
+if __name__ == "__main__":
+    ${1:pass}
+endsnippet
+
+snippet try "try-catch block" b
+try:
+    ${1:pass}
+except ${2:Exception} as ${3:e}:
+    ${4:pass}
+endsnippet
+
+snippet header "header comment" b
+#!/usr/bin/env python3
+"""
+Title: ${1:Title of the Script}
+Author: ${2:Your Name}
+Date: ${3:`!v strftime("%Y-%m-%d")`}
+Description: ${4:Description of the script goes here.}
+"""
+endsnippet
+
+snippet print "print statement" b
+print(f"${1:value}")
+endsnippet

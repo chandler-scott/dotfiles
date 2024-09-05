@@ -1,0 +1,63 @@
+snippet header "Header Comment" b
+/**
+ * @file ${1:filename}
+ * @brief ${2:Description}
+ * @date ${3:`date +%m-%d-%y`}
+ * @author ${4:Your Name}
+ */
+endsnippet
+
+snippet classh "Class Definition for Header" b
+#ifndef ${1:CLASSNAME}_H
+#define $1_H
+
+class $1
+{
+public:
+    $1();
+    virtual ~$1();
+
+    // Copy constructor and copy assignment operator
+    $1(const $1& other);
+    $1& operator=(const $1& other);
+
+    // Move constructor and move assignment operator
+    $1($1&& other) noexcept;
+    $1& operator=($1&& other) noexcept;
+
+private:
+    ${2:Private Members}
+};
+
+#endif // $1_H
+endsnippet
+
+snippet fn "Method Definition" b
+${1:void} ${2:MethodName}(${3:Parameters})
+{
+    ${0:// Implementation}
+}
+endsnippet
+
+snippet if "If Statement" b
+if (${1:condition})
+{
+    ${0:// Implementation}
+}
+endsnippet
+
+snippet for "For Loop" b
+for (${1:int} ${2:i} = 0; $2 < ${3:count}; ++$2)
+{
+    ${0:// Implementation}
+}
+endsnippet
+
+snippet main "Main Function" b
+int main(int argc, char** argv)
+{
+    ${0:// Implementation}
+    return 0;
+}
+endsnippet
+

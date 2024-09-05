@@ -1,0 +1,29 @@
+global !p
+import os
+
+def find_csproj_file():
+    current_file_dir = os.path.dirname(vim.current.buffer.name)
+    for file in os.listdir(current_file_dir):
+        if file.endswith(".csproj"):
+            return file.strip(".csproj")
+    return "No .csproj file found"
+endglobal
+
+snippet template
+/**
+ *--------------------------------------------------------------------
+ * File name: ${1:`!v expand('%:t')`}
+ * Project name: ${2:`!p snip.rv = find_csproj_file()`}
+ *--------------------------------------------------------------------
+ * Author’s name and email: ${3:Chandler Scott - scottcd1@etsu.edu}
+ * Course-Section: ${4:CSCI-1250-002}
+ * Creation Date: ${5:`date +%m/%d/%y`}
+ * -------------------------------------------------------------------
+ * ${6:Short Description}
+ * -------------------------------------------------------------------
+*/
+endsnippet
+
+snippet cwl "Console Write Line" b
+Console.WriteLine($0);
+endsnippet

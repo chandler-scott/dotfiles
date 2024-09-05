@@ -1,0 +1,24 @@
+snippet template "Bash shebang and header comment" b
+#!/bin/bash
+
+# Description: <DESCRIPTION>
+# Author: Chandler Scott (scottcd1@etsu.edu)
+# Date: `date +%m/%d/%y` 
+# License: GNU General Public License v3.0
+endsnippet
+
+snippet if "if-statement" b
+if [[ "$1" == $2 ]]; then
+    $3
+fi
+endsnippet
+
+snippet read "read input from user and assign to variable" b
+read -p "${1:prompt} " ${2:variable}
+endsnippet
+
+snippet fn "function snippet" b
+function ${1:function} {
+    $2
+}
+endsnippet

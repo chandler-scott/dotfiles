@@ -1,0 +1,26 @@
+snippet template "Basic HTML template" b
+<!DOCTYPE html>
+<html lang="${1:en}">
+<head>
+	<meta charset="UTF-8">
+	<meta name="viewport" content="width=device-width, initial-scale=1.0">
+	<title>${2:Document}</title>
+	<link rel="stylesheet" href="${3:styles.css}">
+</head>
+<body>
+	${0:<!-- Add your content here -->}
+</body>
+</html>
+endsnippet
+
+snippet element "arbitrary element" b
+<${1:ELEMENT}>${2:VALUE}</$1>
+endsnippet
+
+snippet "closed element" "closed arbitrary element" b
+<${1:ELEMENT}/>
+endsnippet
+
+snippet div "div element" b
+<div>${1:CONTENT}</div>
+endsnippet

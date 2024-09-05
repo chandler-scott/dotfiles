@@ -1,0 +1,81 @@
+snippet template "LaTeX template for document" b
+\documentclass[12pt]{article}
+\title{${1:Title}}
+\author{Chandler Scott}
+\date{\today}
+
+\begin{document}
+
+\maketitle
+\clearpage
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{${2:Section Title}}\label{sec:${3:label}}
+
+\end{document}
+endsnippet
+
+snippet template "LaTeX template for presentation" b
+\documentclass{beamer}
+\usetheme{Madrid}
+\title{${1:Presentation Title}}
+\author{Chandler Scott}
+\date{\today}
+
+\begin{document}
+
+\frame{\titlepage}
+
+\begin{frame}
+    \frametitle{Introduction}
+    ${2: This is a text in the first frame.}
+\end{frame}
+
+\end{document}
+endsnippet
+
+snippet frame "LaTeX frame for presentation" b
+\begin{frame}
+    \frametitle{${1: Frame Title}}
+    ${2: Title Content}
+\end{frame}
+endsnippet
+
+snippet section "LaTeX section" b
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\section{${1:Section Title}}\label{sec:${2:label}}
+endsnippet
+
+snippet subsection "LaTeX subsection" b
+%%%%%%%%%%%%%%%%%%%%%%%%%%
+\subsection{${1:Subsection Title}}\label{subsec:${2:label}}
+endsnippet
+
+snippet itemize "LaTeX itemize list" b
+\begin{itemize}
+    \item $1
+\end{itemize}
+endsnippet
+
+snippet figure "LaTeX figure" b
+\begin{figure}[ht]
+    \centering
+    \includegraphics[width=${1:0.8\\textwidth}]{${2:path/to/image}}
+    \caption{${3:Caption text}}
+    \label{fig:${4:label}}
+\end{figure}
+endsnippet
+
+snippet table "LaTeX table" b
+\begin{table}[ht]
+    \centering
+    \begin{tabular}{${1:c|c}}
+        \hline
+        & 
+        \hline
+        & 
+        \hline
+    \end{tabular}
+    \caption{${6:Caption here}}
+    \label{tab:${7:label}}
+\end{table}
+endsnippet

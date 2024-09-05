@@ -1,0 +1,24 @@
+snippet template "Makefile template" b
+# Project Name: $1
+# Author: Chandler Scott
+# Description: $2
+
+
+# Definition of variables
+SOURCES = ${3: source files}
+TARGET = ${4: target file}
+BUILD_TOOL = ${5: build tool}
+
+.PHONY: all clean
+
+# Default target
+all: $(TARGET)
+
+# Rule to build the target
+$(TARGET): $(SOURCES) 
+	$(BUILD_TOOL) $(SOURCES)
+
+# Clean target to remove build artifacts
+clean:  
+	rm -f $(TARGET)
+endsnippet

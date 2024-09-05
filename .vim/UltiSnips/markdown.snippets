@@ -1,0 +1,66 @@
+snippet metadata
+---
+title: <TITLE>
+author: Chandler Scott
+date: <DATE>
+lang: "en"
+...
+endsnippet
+
+snippet itemize
+\begin{itemize}
+    \item
+\end{itemize}
+endsnippet
+
+# Jekyll
+snippet template "Jekyll Post Template" b
+---
+layout: post
+title: "$1"
+date: ${3:`date +"%Y-%m-%d %H:%M:%S %z"`}
+categories: "$4"
+author: "Chandler Scott"
+---
+endsnippet
+
+snippet code "Code Block" b
+\`\`\`${1:language}
+${0:Your code here...}
+\`\`\`
+endsnippet
+
+snippet definition "Definition List" b
+\`${1:Term}\`: ${0:Definition}
+endsnippet
+
+snippet link "Markdown Link" b
+[${1:link text}](${2:url})
+endsnippet
+
+snippet filesystem "File System Tree" b
+```
+${1:root}/
+├── ${2:directory}/
+│   ├── ${3:file1.ext}
+│   └── ${4:file2.ext}
+└── ${5:another_directory}/
+	└── ${6:file3.ext}
+```
+endsnippet
+
+snippet h1 "header 1" b
+# $0
+endsnippet
+
+snippet h2 "header 2" b
+## $0
+endsnippet
+
+snippet h3 "header 3" b
+### $0
+endsnippet
+
+snippet h4 "header 4" b
+#### $0
+endsnippet
