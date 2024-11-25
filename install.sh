@@ -142,6 +142,12 @@ copy_dotfiles() {
     if [[ $ZSH_SELECTED == true ]]; then
         c_echo "Copying Zsh dotfiles..."
         copy_files "${zsh_dotfiles[@]}"
+
+        # Install Dracula theme
+        git clone https://github.com/dracula/zsh.git
+        cp zsh/dracula.zsh-theme $HOME/.oh-my-zsh/themes/dracula.zsh-theme
+        cp -r zsh/lib/ $HOME/.oh-my-zsh/themes/
+        rm -rf zsh
     fi
 }
 
