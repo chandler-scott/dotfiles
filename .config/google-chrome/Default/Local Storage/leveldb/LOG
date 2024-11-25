@@ -1,6 +1,0 @@
-2024/11/21-20:48:45.154 4 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/Local Storage/leveldb/MANIFEST-000001
-2024/11/21-20:48:45.160 4 Recovering log #5314
-2024/11/21-20:48:45.161 4 Reusing old log /home/chandler/.config/google-chrome/Default/Local Storage/leveldb/005314.log 
-2024/11/21-20:50:14.695 5 Level-0 table #5320: started
-2024/11/21-20:50:14.699 5 Level-0 table #5320: 74414 bytes OK
-2024/11/21-20:50:14.700 5 Delete type=0 #5314

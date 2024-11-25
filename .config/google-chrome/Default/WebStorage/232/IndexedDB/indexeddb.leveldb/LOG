@@ -1,6 +1,0 @@
-2024/08/19-23:57:41.009 37bbc Creating DB /home/chandler/.config/google-chrome/Default/WebStorage/232/IndexedDB/indexeddb.leveldb since it was missing.
-2024/08/19-23:57:41.012 37bbc Reusing MANIFEST /home/chandler/.config/google-chrome/Default/WebStorage/232/IndexedDB/indexeddb.leveldb/MANIFEST-000001
-2024/08/19-23:58:56.556 37bbc Level-0 table #5: started
-2024/08/19-23:58:56.557 37bbc Level-0 table #5: 1210 bytes OK
-2024/08/19-23:58:56.559 37bbc Delete type=0 #3
-2024/08/19-23:58:56.559 37bbc Manual compaction at level-0 from (begin) .. (end); will stop at (end)

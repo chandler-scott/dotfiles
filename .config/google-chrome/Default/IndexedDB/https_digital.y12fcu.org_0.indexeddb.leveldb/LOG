@@ -1,7 +1,0 @@
-2024/08/01-23:21:32.232 719c0 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_digital.y12fcu.org_0.indexeddb.leveldb/MANIFEST-000001
-2024/08/01-23:21:32.232 719c0 Recovering log #4
-2024/08/01-23:21:32.232 719c0 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_digital.y12fcu.org_0.indexeddb.leveldb/000004.log 
-2024/08/01-23:21:32.237 719c2 Level-0 table #8: started
-2024/08/01-23:21:32.238 719c2 Level-0 table #8: 2227 bytes OK
-2024/08/01-23:21:32.239 719c2 Delete type=0 #4
-2024/08/01-23:21:32.239 719c0 Manual compaction at level-0 from '\x00\x03\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x04\x00\x00\x00' @ 0 : 0; will stop at (end)

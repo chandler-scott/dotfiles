@@ -1,5 +1,0 @@
-2024-04-17 15:05:29.915 [info] update#setState idle
-2024-04-17 15:05:59.916 [info] update#setState checking for updates
-2024-04-17 15:05:59.917 [info] update#setState idle
-2024-04-17 15:15:30.101 [info] Extension host with pid 61915 exited with code: 0, signal: unknown.
-2024-04-17 15:15:30.112 [error] Blocked vscode-file request vscode-file://vscode-app/snap/code/157/usr/share/code/resources/app/out/vs/base/worker/workerMain.js#editorWorkerService

@@ -1,6 +1,0 @@
-2024/09/06-19:57:17.039 5412f Creating DB /home/chandler/.config/google-chrome/Default/IndexedDB/https_etsu.primo.exlibrisgroup.com_0.indexeddb.leveldb since it was missing.
-2024/09/06-19:57:17.042 5412f Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_etsu.primo.exlibrisgroup.com_0.indexeddb.leveldb/MANIFEST-000001
-2024/09/10-21:06:04.560 54130 Level-0 table #5: started
-2024/09/10-21:06:04.561 54130 Level-0 table #5: 3100 bytes OK
-2024/09/10-21:06:04.562 54130 Delete type=0 #3
-2024/09/10-21:06:04.563 54130 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
