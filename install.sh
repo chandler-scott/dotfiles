@@ -39,16 +39,26 @@ zsh_dotfiles=(
     ".zsh_vars"
 )
 
+# Function for custom echo
+c_echo() {
+    message="$*"
+
+    local colorized_message
+    colorized_message=$(echo -e "\e[34m$1\e[0m")
+
+    echo -e "${colorized_message}"
+}
+
 # Function to display the menu
 display_menu() {
     clear
-    echo "Select your setup:"
-    echo "1. [$(toggle_display $BASH_SELECTED)] BASH"
-    echo "2. [$(toggle_display $ZSH_SELECTED)] ZSH"
-    echo "3. [$(toggle_display $VIM_SELECTED)] Vim"
-    echo "4. [$(toggle_display $TMUX_SELECTED)] Tmux"
-    echo "5. Install!"
-    echo "6. Exit"
+    c_echo "Select your setup:"
+    c_echo "1. [$(toggle_display $BASH_SELECTED)] BASH"
+    c_echo "2. [$(toggle_display $ZSH_SELECTED)] ZSH"
+    c_echo "3. [$(toggle_display $VIM_SELECTED)] Vim"
+    c_echo "4. [$(toggle_display $TMUX_SELECTED)] Tmux"
+    c_echo "5. Install!"
+    c_echo "6. Exit"
 }
 
 # Helper function to toggle selection display
@@ -79,15 +89,15 @@ install_dependencies() {
         IFS=":" read -r name selected <<< "$item"
         if [[ $selected == true ]]; then
             if ! command -v "$name" &> /dev/null; then
-                echo "$name is not installed. Installing..."
+                c_echo "$name is not installed. Installing..."
                 sudo apt install "$name" -y &> /dev/null
             else
-                echo "$name is already installed."
+                c_echo "$name is already installed."
             fi
 
             # Special case for Zsh to check Oh My Zsh
             if [[ $name == "zsh" && ! -d "$HOME/.oh-my-zsh" ]]; then
-                echo "Oh My Zsh is not installed. Installing..."
+                c_echo "Oh My Zsh is not installed. Installing..."
                 sh -c "$(curl -fsSL https://raw.githubusercontent.com/ohmyzsh/ohmyzsh/master/tools/install.sh)"
             fi
         fi
@@ -100,37 +110,37 @@ copy_files () {
         src="$(dirname "$(realpath "$0")")/$file"
         dest="$HOME/$file"
         if [[ -e "$src" ]]; then
-            echo "Copying $src to $dest"
+            c_echo "Copying $src to $dest"
             cp -r "$src" "$dest"
         else
-            echo "Warning: $src does not exist and will not be copied."
+            c_echo "Warning: $src does not exist and will not be copied."
         fi
     done
 }
 
 copy_dotfiles() {
     # Always copy these files
-    echo "Copying mandatory dotfiles..."
+    c_echo "Copying mandatory dotfiles..."
     copy_files "${always_copy}"
 
     # Conditional copying based on selections
     if [[ $BASH_SELECTED == true ]]; then
-        echo "Copying Bash dotfiles..."
+        c_echo "Copying Bash dotfiles..."
         copy_files "${bash_dotfiles[@]}"
     fi
 
     if [[ $VIM_SELECTED == true ]]; then
-        echo "Copying Vim dotfiles..."
+        c_echo "Copying Vim dotfiles..."
         copy_files "${vim_dotfiles[@]}"
     fi
 
     if [[ $TMUX_SELECTED == true ]]; then
-        echo "Copying Tmux dotfile..."
+        c_echo "Copying Tmux dotfile..."
         copy_files "${tmux_dotfiles[@]}"
     fi
 
     if [[ $ZSH_SELECTED == true ]]; then
-        echo "Copying Zsh dotfiles..."
+        c_echo "Copying Zsh dotfiles..."
         copy_files "${zsh_dotfiles[@]}"
     fi
 }
@@ -138,22 +148,23 @@ copy_dotfiles() {
 # Main loop
 while true; do
     display_menu
-    read -p "Choose an option (1-6): " choice
+    c_echo "Choose an option (1-6):"
+    read -p "> " choice
 
     case $choice in
         1|2|3|4) toggle_selection $choice ;;
         5)
-            echo "Installing with the following setup:"
-            [[ $BASH_SELECTED == true ]] && echo "- BASH"
-            [[ $ZSH_SELECTED == true ]] && echo "- ZSH"
-            [[ $VIM_SELECTED == true ]] && echo "- Vim"
-            [[ $TMUX_SELECTED == true ]] && echo "- Tmux"
+            c_echo "Installing with the following setup:"
+            [[ $BASH_SELECTED == true ]] && c_echo "- BASH"
+            [[ $ZSH_SELECTED == true ]] && c_echo "- ZSH"
+            [[ $VIM_SELECTED == true ]] && c_echo "- Vim"
+            [[ $TMUX_SELECTED == true ]] && c_echo "- Tmux"
             install_dependencies
             copy_dotfiles
             break
             ;;
-        6) echo "Exiting..."; exit ;;
-        *) echo "Invalid option! Please try again." ;;
+        6) c_echo "Exiting..."; exit ;;
+        *) c_echo "Invalid option! Please try again." ;;
     esac
 done
 
