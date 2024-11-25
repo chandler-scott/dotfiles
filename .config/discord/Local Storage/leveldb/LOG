@@ -1,0 +1,313 @@
+2024/11/15-10:53:58.423 3cfe8 Reusing MANIFEST /home/chandler/.config/discord/Local Storage/leveldb/MANIFEST-000001
+2024/11/15-10:53:58.428 3cfe8 Recovering log #1859
+2024/11/15-10:53:58.428 3cfe8 Reusing old log /home/chandler/.config/discord/Local Storage/leveldb/001859.log 
+2024/11/15-10:54:51.878 3cfe9 Level-0 table #1865: started
+2024/11/15-10:54:51.880 3cfe9 Level-0 table #1865: 55746 bytes OK
+2024/11/15-10:54:51.882 3cfe9 Delete type=0 #1859
+2024/11/15-10:55:46.566 3cfe9 Level-0 table #1867: started
+2024/11/15-10:55:46.602 3cfe9 Level-0 table #1867: 3280258 bytes OK
+2024/11/15-10:55:46.603 3cfe9 Delete type=0 #1864
+2024/11/15-15:11:24.064 3cfe9 Level-0 table #1869: started
+2024/11/15-15:11:24.067 3cfe9 Level-0 table #1869: 55673 bytes OK
+2024/11/15-15:11:24.068 3cfe9 Delete type=0 #1866
+2024/11/15-22:36:15.988 3cfe9 Level-0 table #1871: started
+2024/11/15-22:36:15.991 3cfe9 Level-0 table #1871: 55658 bytes OK
+2024/11/15-22:36:15.992 3cfe9 Delete type=0 #1868
+2024/11/15-22:36:15.993 3cfe9 Compacting 4@0 + 3@1 files
+2024/11/15-22:36:16.013 3cfe9 Generated table #1872@0: 21 keys, 2430432 bytes
+2024/11/15-22:36:16.039 3cfe9 Generated table #1873@0: 122 keys, 3218270 bytes
+2024/11/15-22:36:16.056 3cfe9 Generated table #1874@0: 60 keys, 788736 bytes
+2024/11/15-22:36:16.056 3cfe9 Compacted 4@0 + 3@1 files => 6437438 bytes
+2024/11/15-22:36:16.057 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1867
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1869
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1861
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1871
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1865
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #1862
+2024/11/15-22:36:16.057 3cfe9 Delete type=2 #777
+2024/11/15-23:05:40.633 3cfe9 Level-0 table #1876: started
+2024/11/15-23:05:40.644 3cfe9 Level-0 table #1876: 52475 bytes OK
+2024/11/15-23:05:40.662 3cfe9 Delete type=0 #1870
+2024/11/16-05:17:15.198 3cfe9 Level-0 table #1878: started
+2024/11/16-05:17:15.201 3cfe9 Level-0 table #1878: 29674 bytes OK
+2024/11/16-05:17:15.203 3cfe9 Delete type=0 #1875
+2024/11/16-11:17:16.207 3cfe9 Level-0 table #1880: started
+2024/11/16-11:17:16.222 3cfe9 Level-0 table #1880: 2429057 bytes OK
+2024/11/16-11:17:16.224 3cfe9 Delete type=0 #1877
+2024/11/16-14:54:10.755 3cfe9 Level-0 table #1882: started
+2024/11/16-14:54:10.758 3cfe9 Level-0 table #1882: 52781 bytes OK
+2024/11/16-14:54:10.759 3cfe9 Delete type=0 #1879
+2024/11/16-14:54:10.759 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/16-14:54:10.780 3cfe9 Generated table #1883@0: 21 keys, 2430564 bytes
+2024/11/16-14:54:10.802 3cfe9 Generated table #1884@0: 122 keys, 3218321 bytes
+2024/11/16-14:54:10.802 3cfe9 Compacted 4@0 + 2@1 files => 5648885 bytes
+2024/11/16-14:54:10.803 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1878
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1872
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1876
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1873
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1880
+2024/11/16-14:54:10.804 3cfe9 Delete type=2 #1882
+2024/11/16-17:17:17.229 3cfe9 Level-0 table #1886: started
+2024/11/16-17:17:17.243 3cfe9 Level-0 table #1886: 2428897 bytes OK
+2024/11/16-17:17:17.245 3cfe9 Delete type=0 #1881
+2024/11/16-22:54:10.794 3cfe9 Level-0 table #1888: started
+2024/11/16-22:54:10.796 3cfe9 Level-0 table #1888: 53054 bytes OK
+2024/11/16-22:54:10.798 3cfe9 Delete type=0 #1885
+2024/11/16-23:17:18.249 3cfe8 Level-0 table #1890: started
+2024/11/16-23:17:18.263 3cfe8 Level-0 table #1890: 2428963 bytes OK
+2024/11/16-23:17:18.265 3cfe8 Delete type=0 #1887
+2024/11/17-17:17:21.199 3cfe9 Level-0 table #1892: started
+2024/11/17-17:17:21.214 3cfe9 Level-0 table #1892: 2467161 bytes OK
+2024/11/17-17:17:21.215 3cfe9 Delete type=0 #1889
+2024/11/17-17:17:21.216 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/17-17:17:21.230 3cfe9 Generated table #1893@0: 21 keys, 2430894 bytes
+2024/11/17-17:17:21.252 3cfe9 Generated table #1894@0: 122 keys, 3218440 bytes
+2024/11/17-17:17:21.252 3cfe9 Compacted 4@0 + 2@1 files => 5649334 bytes
+2024/11/17-17:17:21.253 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1888
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1886
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1892
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1890
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1884
+2024/11/17-17:17:21.254 3cfe9 Delete type=2 #1883
+2024/11/17-23:17:22.199 3cfe8 Level-0 table #1896: started
+2024/11/17-23:17:22.214 3cfe8 Level-0 table #1896: 2446264 bytes OK
+2024/11/17-23:17:22.216 3cfe8 Delete type=0 #1891
+2024/11/18-04:41:49.460 3cfe9 Level-0 table #1898: started
+2024/11/18-04:41:49.477 3cfe9 Level-0 table #1898: 2429519 bytes OK
+2024/11/18-04:41:49.479 3cfe9 Delete type=0 #1895
+2024/11/18-08:08:03.932 3cfe9 Level-0 table #1900: started
+2024/11/18-08:08:03.935 3cfe9 Level-0 table #1900: 27028 bytes OK
+2024/11/18-08:08:03.936 3cfe9 Delete type=0 #1897
+2024/11/18-10:16:48.931 3cfe9 Level-0 table #1902: started
+2024/11/18-10:16:48.933 3cfe9 Level-0 table #1902: 52065 bytes OK
+2024/11/18-10:16:48.935 3cfe9 Delete type=0 #1899
+2024/11/18-10:16:48.935 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/18-10:16:48.957 3cfe9 Generated table #1903@0: 21 keys, 2431026 bytes
+2024/11/18-10:16:48.980 3cfe9 Generated table #1904@0: 122 keys, 3218002 bytes
+2024/11/18-10:16:48.980 3cfe9 Compacted 4@0 + 2@1 files => 5649028 bytes
+2024/11/18-10:16:48.981 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1896
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1898
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1893
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1894
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1902
+2024/11/18-10:16:48.981 3cfe9 Delete type=2 #1900
+2024/11/18-13:05:36.930 3cfe9 Level-0 table #1906: started
+2024/11/18-13:05:36.933 3cfe9 Level-0 table #1906: 53965 bytes OK
+2024/11/18-13:05:36.934 3cfe9 Delete type=0 #1901
+2024/11/18-13:27:31.095 3cfe9 Level-0 table #1908: started
+2024/11/18-13:27:31.097 3cfe9 Level-0 table #1908: 52417 bytes OK
+2024/11/18-13:27:31.098 3cfe9 Delete type=0 #1905
+2024/11/18-14:00:46.933 3cfe9 Level-0 table #1910: started
+2024/11/18-14:00:46.936 3cfe9 Level-0 table #1910: 26835 bytes OK
+2024/11/18-14:00:46.937 3cfe9 Delete type=0 #1907
+2024/11/18-17:11:53.989 3cfe9 Level-0 table #1912: started
+2024/11/18-17:11:53.991 3cfe9 Level-0 table #1912: 52454 bytes OK
+2024/11/18-17:11:53.993 3cfe9 Delete type=0 #1909
+2024/11/18-17:11:53.993 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/18-17:11:54.010 3cfe9 Generated table #1913@0: 21 keys, 2431026 bytes
+2024/11/18-17:11:54.032 3cfe9 Generated table #1914@0: 122 keys, 3218078 bytes
+2024/11/18-17:11:54.032 3cfe9 Compacted 4@0 + 2@1 files => 5649104 bytes
+2024/11/18-17:11:54.033 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/18-17:11:54.033 3cfe9 Delete type=2 #1906
+2024/11/18-17:11:54.033 3cfe9 Delete type=2 #1912
+2024/11/18-17:11:54.033 3cfe9 Delete type=2 #1903
+2024/11/18-17:11:54.034 3cfe9 Delete type=2 #1904
+2024/11/18-17:11:54.034 3cfe9 Delete type=2 #1910
+2024/11/18-17:11:54.034 3cfe9 Delete type=2 #1908
+2024/11/18-22:54:10.851 3cfe9 Level-0 table #1916: started
+2024/11/18-22:54:10.853 3cfe9 Level-0 table #1916: 52583 bytes OK
+2024/11/18-22:54:10.855 3cfe9 Delete type=0 #1911
+2024/11/18-23:47:21.199 3cfe9 Level-0 table #1918: started
+2024/11/18-23:47:21.214 3cfe9 Level-0 table #1918: 2429557 bytes OK
+2024/11/18-23:47:21.216 3cfe9 Delete type=0 #1915
+2024/11/19-05:58:03.696 3cfe9 Level-0 table #1920: started
+2024/11/19-05:58:03.700 3cfe9 Level-0 table #1920: 17619 bytes OK
+2024/11/19-05:58:03.702 3cfe9 Delete type=0 #1917
+2024/11/19-09:28:31.990 3cfe9 Level-0 table #1922: started
+2024/11/19-09:28:31.993 3cfe9 Level-0 table #1922: 53343 bytes OK
+2024/11/19-09:28:31.995 3cfe9 Delete type=0 #1919
+2024/11/19-09:28:31.995 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/19-09:28:32.015 3cfe9 Generated table #1923@0: 21 keys, 2431356 bytes
+2024/11/19-09:28:32.037 3cfe9 Generated table #1924@0: 122 keys, 3217983 bytes
+2024/11/19-09:28:32.037 3cfe9 Compacted 4@0 + 2@1 files => 5649339 bytes
+2024/11/19-09:28:32.038 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1918
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1920
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1916
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1913
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1914
+2024/11/19-09:28:32.038 3cfe9 Delete type=2 #1922
+2024/11/19-12:49:43.837 3cfe9 Level-0 table #1926: started
+2024/11/19-12:49:43.839 3cfe9 Level-0 table #1926: 52165 bytes OK
+2024/11/19-12:49:43.840 3cfe9 Delete type=0 #1921
+2024/11/19-17:47:50.932 3cfe9 Level-0 table #1928: started
+2024/11/19-17:47:50.947 3cfe9 Level-0 table #1928: 2465529 bytes OK
+2024/11/19-17:47:50.949 3cfe9 Delete type=0 #1925
+2024/11/19-21:47:55.481 3cfe9 Level-0 table #1930: started
+2024/11/19-21:47:55.484 3cfe9 Level-0 table #1930: 51881 bytes OK
+2024/11/19-21:47:55.486 3cfe9 Delete type=0 #1927
+2024/11/20-06:07:35.930 3cfe9 Level-0 table #1932: started
+2024/11/20-06:07:35.933 3cfe9 Level-0 table #1932: 33592 bytes OK
+2024/11/20-06:07:35.935 3cfe9 Delete type=0 #1929
+2024/11/20-06:07:35.935 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/20-06:07:35.955 3cfe9 Generated table #1933@0: 21 keys, 2431422 bytes
+2024/11/20-06:07:35.977 3cfe9 Generated table #1934@0: 122 keys, 3217833 bytes
+2024/11/20-06:07:35.977 3cfe9 Compacted 4@0 + 2@1 files => 5649255 bytes
+2024/11/20-06:07:35.978 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1923
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1924
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1928
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1926
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1932
+2024/11/20-06:07:35.979 3cfe9 Delete type=2 #1930
+2024/11/20-10:54:11.966 3cfe9 Level-0 table #1936: started
+2024/11/20-10:54:11.969 3cfe9 Level-0 table #1936: 52164 bytes OK
+2024/11/20-10:54:11.971 3cfe9 Delete type=0 #1931
+2024/11/20-11:22:24.931 3cfe9 Level-0 table #1938: started
+2024/11/20-11:22:24.947 3cfe9 Level-0 table #1938: 2429755 bytes OK
+2024/11/20-11:22:24.948 3cfe9 Delete type=0 #1935
+2024/11/20-16:48:09.942 3cfe9 Level-0 table #1940: started
+2024/11/20-16:48:09.944 3cfe9 Level-0 table #1940: 51894 bytes OK
+2024/11/20-16:48:09.946 3cfe9 Delete type=0 #1937
+2024/11/20-19:27:31.229 3cfe9 Level-0 table #1942: started
+2024/11/20-19:27:31.232 3cfe9 Level-0 table #1942: 38846 bytes OK
+2024/11/20-19:27:31.233 3cfe9 Delete type=0 #1939
+2024/11/20-19:27:31.234 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/20-19:27:31.253 3cfe9 Generated table #1943@0: 21 keys, 2431554 bytes
+2024/11/20-19:27:31.275 3cfe9 Generated table #1944@0: 122 keys, 3217969 bytes
+2024/11/20-19:27:31.275 3cfe9 Compacted 4@0 + 2@1 files => 5649523 bytes
+2024/11/20-19:27:31.277 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1938
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1933
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1934
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1940
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1942
+2024/11/20-19:27:31.277 3cfe9 Delete type=2 #1936
+2024/11/20-21:56:48.550 3cfe9 Level-0 table #1946: started
+2024/11/20-21:56:48.552 3cfe9 Level-0 table #1946: 53112 bytes OK
+2024/11/20-21:56:48.554 3cfe9 Delete type=0 #1941
+2024/11/21-01:27:27.199 3cfe9 Level-0 table #1948: started
+2024/11/21-01:27:27.215 3cfe9 Level-0 table #1948: 2433061 bytes OK
+2024/11/21-01:27:27.218 3cfe9 Delete type=0 #1945
+2024/11/21-03:25:37.880 3cfe9 Level-0 table #1950: started
+2024/11/21-03:25:37.882 3cfe9 Level-0 table #1950: 17530 bytes OK
+2024/11/21-03:25:37.884 3cfe9 Delete type=0 #1947
+2024/11/21-11:15:50.424 3cfe9 Level-0 table #1952: started
+2024/11/21-11:15:50.428 3cfe9 Level-0 table #1952: 44765 bytes OK
+2024/11/21-11:15:50.429 3cfe9 Delete type=0 #1949
+2024/11/21-11:15:50.430 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/21-11:15:50.449 3cfe9 Generated table #1953@0: 21 keys, 2432016 bytes
+2024/11/21-11:15:50.473 3cfe9 Generated table #1954@0: 122 keys, 3218454 bytes
+2024/11/21-11:15:50.473 3cfe9 Compacted 4@0 + 2@1 files => 5650470 bytes
+2024/11/21-11:15:50.474 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1948
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1952
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1944
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1950
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1946
+2024/11/21-11:15:50.474 3cfe9 Delete type=2 #1943
+2024/11/21-13:27:27.794 3cfe9 Level-0 table #1956: started
+2024/11/21-13:27:27.796 3cfe9 Level-0 table #1956: 52950 bytes OK
+2024/11/21-13:27:27.797 3cfe9 Delete type=0 #1951
+2024/11/21-17:26:21.708 3cfe9 Level-0 table #1958: started
+2024/11/21-17:26:21.710 3cfe9 Level-0 table #1958: 53069 bytes OK
+2024/11/21-17:26:21.711 3cfe9 Delete type=0 #1955
+2024/11/21-18:26:08.802 3cfe9 Level-0 table #1960: started
+2024/11/21-18:26:08.804 3cfe9 Level-0 table #1960: 53293 bytes OK
+2024/11/21-18:26:08.805 3cfe9 Delete type=0 #1957
+2024/11/21-18:55:47.499 3cfe9 Level-0 table #1962: started
+2024/11/21-18:55:47.515 3cfe9 Level-0 table #1962: 2466392 bytes OK
+2024/11/21-18:55:47.516 3cfe9 Delete type=0 #1959
+2024/11/21-18:55:47.517 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/21-18:55:47.529 3cfe9 Generated table #1963@0: 21 keys, 2432214 bytes
+2024/11/21-18:55:47.553 3cfe9 Generated table #1964@0: 122 keys, 3218540 bytes
+2024/11/21-18:55:47.554 3cfe9 Compacted 4@0 + 2@1 files => 5650754 bytes
+2024/11/21-18:55:47.555 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1953
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1960
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1958
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1954
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1962
+2024/11/21-18:55:47.555 3cfe9 Delete type=2 #1956
+2024/11/21-18:57:00.668 3cfe9 Level-0 table #1966: started
+2024/11/21-18:57:00.669 3cfe9 Level-0 table #1966: 42167 bytes OK
+2024/11/21-18:57:00.671 3cfe9 Delete type=0 #1961
+2024/11/21-20:01:56.336 3cfe9 Level-0 table #1968: started
+2024/11/21-20:01:56.337 3cfe9 Level-0 table #1968: 11898 bytes OK
+2024/11/21-20:01:56.338 3cfe9 Delete type=0 #1965
+2024/11/21-20:50:48.789 3cfe9 Level-0 table #1970: started
+2024/11/21-20:50:48.790 3cfe9 Level-0 table #1970: 45766 bytes OK
+2024/11/21-20:50:48.792 3cfe9 Delete type=0 #1967
+2024/11/21-22:18:24.486 3cfe9 Level-0 table #1972: started
+2024/11/21-22:18:24.487 3cfe9 Level-0 table #1972: 28014 bytes OK
+2024/11/21-22:18:24.489 3cfe9 Delete type=0 #1969
+2024/11/21-22:18:24.489 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/21-22:18:24.507 3cfe9 Generated table #1973@0: 21 keys, 2432596 bytes
+2024/11/21-22:18:24.536 3cfe9 Generated table #1974@0: 122 keys, 3218145 bytes
+2024/11/21-22:18:24.536 3cfe9 Compacted 4@0 + 2@1 files => 5650741 bytes
+2024/11/21-22:18:24.540 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/21-22:18:24.540 3cfe9 Delete type=2 #1964
+2024/11/21-22:18:24.540 3cfe9 Delete type=2 #1970
+2024/11/21-22:18:24.540 3cfe9 Delete type=2 #1972
+2024/11/21-22:18:24.540 3cfe9 Delete type=2 #1963
+2024/11/21-22:18:24.541 3cfe9 Delete type=2 #1968
+2024/11/21-22:18:24.541 3cfe9 Delete type=2 #1966
+2024/11/22-06:32:53.992 3cfe9 Level-0 table #1976: started
+2024/11/22-06:32:54.008 3cfe9 Level-0 table #1976: 2432272 bytes OK
+2024/11/22-06:32:54.010 3cfe9 Delete type=0 #1971
+2024/11/22-10:54:16.446 3cfe9 Level-0 table #1978: started
+2024/11/22-10:54:16.448 3cfe9 Level-0 table #1978: 53817 bytes OK
+2024/11/22-10:54:16.450 3cfe9 Delete type=0 #1975
+2024/11/22-15:51:40.481 3cfe9 Level-0 table #1980: started
+2024/11/22-15:51:40.496 3cfe9 Level-0 table #1980: 2469097 bytes OK
+2024/11/22-15:51:40.497 3cfe9 Delete type=0 #1977
+2024/11/22-19:27:37.187 3cfe9 Level-0 table #1982: started
+2024/11/22-19:27:37.203 3cfe9 Level-0 table #1982: 2470180 bytes OK
+2024/11/22-19:27:37.204 3cfe9 Delete type=0 #1979
+2024/11/22-19:27:37.205 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/22-19:27:37.219 3cfe9 Generated table #1983@0: 21 keys, 2432808 bytes
+2024/11/22-19:27:37.242 3cfe9 Generated table #1984@0: 122 keys, 3218086 bytes
+2024/11/22-19:27:37.242 3cfe9 Compacted 4@0 + 2@1 files => 5650894 bytes
+2024/11/22-19:27:37.243 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/22-19:27:37.243 3cfe9 Delete type=2 #1978
+2024/11/22-19:27:37.243 3cfe9 Delete type=2 #1973
+2024/11/22-19:27:37.244 3cfe9 Delete type=2 #1976
+2024/11/22-19:27:37.244 3cfe9 Delete type=2 #1974
+2024/11/22-19:27:37.244 3cfe9 Delete type=2 #1980
+2024/11/22-19:27:37.244 3cfe9 Delete type=2 #1982
+2024/11/23-12:06:12.006 3cfe9 Level-0 table #1986: started
+2024/11/23-12:06:12.020 3cfe9 Level-0 table #1986: 2449009 bytes OK
+2024/11/23-12:06:12.022 3cfe9 Delete type=0 #1981
+2024/11/23-18:30:46.992 3cfe9 Level-0 table #1988: started
+2024/11/23-18:30:47.007 3cfe9 Level-0 table #1988: 2449272 bytes OK
+2024/11/23-18:30:47.009 3cfe9 Delete type=0 #1985
+2024/11/23-19:27:41.232 3cfe9 Level-0 table #1990: started
+2024/11/23-19:27:41.247 3cfe9 Level-0 table #1990: 2449637 bytes OK
+2024/11/23-19:27:41.248 3cfe9 Delete type=0 #1987
+2024/11/24-01:27:42.197 3cfe9 Level-0 table #1992: started
+2024/11/24-01:27:42.212 3cfe9 Level-0 table #1992: 2449139 bytes OK
+2024/11/24-01:27:42.213 3cfe9 Delete type=0 #1989
+2024/11/24-01:27:42.214 3cfe9 Compacting 4@0 + 2@1 files
+2024/11/24-01:27:42.230 3cfe9 Generated table #1993@0: 21 keys, 2433534 bytes
+2024/11/24-01:27:42.253 3cfe9 Generated table #1994@0: 122 keys, 3218052 bytes
+2024/11/24-01:27:42.253 3cfe9 Compacted 4@0 + 2@1 files => 5651586 bytes
+2024/11/24-01:27:42.255 3cfe9 compacted to: files[ 0 3 1 0 0 0 0 ]
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1992
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1988
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1990
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1983
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1986
+2024/11/24-01:27:42.255 3cfe9 Delete type=2 #1984
+2024/11/24-07:27:38.193 3cfe9 Level-0 table #1996: started
+2024/11/24-07:27:38.208 3cfe9 Level-0 table #1996: 2449248 bytes OK
+2024/11/24-07:27:38.209 3cfe9 Delete type=0 #1991
+2024/11/24-13:27:44.261 3cfe9 Level-0 table #1998: started
+2024/11/24-13:27:44.263 3cfe9 Level-0 table #1998: 53522 bytes OK
+2024/11/24-13:27:44.265 3cfe9 Delete type=0 #1995
+2024/11/24-19:27:40.200 3cfe9 Level-0 table #2000: started
+2024/11/24-19:27:40.215 3cfe9 Level-0 table #2000: 2432229 bytes OK
+2024/11/24-19:27:40.217 3cfe9 Delete type=0 #1997

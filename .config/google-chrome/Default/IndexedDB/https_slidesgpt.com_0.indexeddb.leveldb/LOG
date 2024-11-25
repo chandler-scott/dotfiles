@@ -1,0 +1,28 @@
+2024/08/05-22:28:26.835 a07c0 Creating DB /home/chandler/.config/google-chrome/Default/IndexedDB/https_slidesgpt.com_0.indexeddb.leveldb since it was missing.
+2024/08/05-22:28:26.838 a07c0 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_slidesgpt.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/08/05-22:28:26.874 a07cb Level-0 table #5: started
+2024/08/05-22:28:26.875 a07cb Level-0 table #5: 1313 bytes OK
+2024/08/05-22:28:26.877 a07cb Delete type=0 #3
+2024/08/05-22:28:26.877 a07cb Manual compaction at level-0 from '\x00\x01\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x02\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/05-22:28:31.699 a07c1 Level-0 table #7: started
+2024/08/05-22:28:31.700 a07c1 Level-0 table #7: 7837 bytes OK
+2024/08/05-22:28:31.701 a07c1 Delete type=0 #4
+2024/08/05-22:28:31.701 a07c1 Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/05-22:28:50.882 a07c0 Compacting 1@1 + 1@2 files
+2024/08/05-22:28:50.884 a07c0 Generated table #8@1: 51 keys, 3379 bytes
+2024/08/05-22:28:50.884 a07c0 Compacted 1@1 + 1@2 files => 3379 bytes
+2024/08/05-22:28:50.885 a07c0 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/05-22:28:50.886 a07c0 Delete type=2 #5
+2024/08/05-22:28:50.886 a07c0 Delete type=2 #7
+2024/08/05-22:34:54.220 a07c1 Level-0 table #10: started
+2024/08/05-22:34:54.221 a07c1 Level-0 table #10: 4827 bytes OK
+2024/08/05-22:34:54.222 a07c1 Delete type=0 #6
+2024/08/05-22:34:54.223 a07c1 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/08/05-22:34:54.223 a07c1 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00K\x00U\x00f\x00C\x00F\x00a\x00I\x00G\x00l\x00w\x00s\x00L\x00X\x00g\x00w\x00i\x004\x00h\x00O\x00O\x00U\x00g\x00W\x00U\x00J\x003\x00h\x00y\x00l\x00n\x00H\x00s\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 277 : 1
+2024/08/05-22:34:54.223 a07c1 Compacting 1@1 + 1@2 files
+2024/08/05-22:34:54.224 a07c1 Generated table #11@1: 51 keys, 3370 bytes
+2024/08/05-22:34:54.224 a07c1 Compacted 1@1 + 1@2 files => 3370 bytes
+2024/08/05-22:34:54.225 a07c1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/08/05-22:34:54.226 a07c1 Delete type=2 #8
+2024/08/05-22:34:54.226 a07c1 Delete type=2 #10
+2024/08/05-22:34:54.226 a07c1 Manual compaction at level-1 from '\x00\x02\x01\x02\x01C\x00f\x00i\x00r\x00e\x00b\x00a\x00s\x00e\x00:\x00a\x00u\x00t\x00h\x00U\x00s\x00e\x00r\x00:\x00A\x00I\x00z\x00a\x00S\x00y\x00D\x00K\x00U\x00f\x00C\x00F\x00a\x00I\x00G\x00l\x00w\x00s\x00L\x00X\x00g\x00w\x00i\x004\x00h\x00O\x00O\x00U\x00g\x00W\x00U\x00J\x003\x00h\x00y\x00l\x00n\x00H\x00s\x00:\x00[\x00D\x00E\x00F\x00A\x00U\x00L\x00T\x00]' @ 277 : 1 .. (end); will stop at (end)

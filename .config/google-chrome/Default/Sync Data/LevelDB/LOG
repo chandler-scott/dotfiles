@@ -1,0 +1,21 @@
+2024/11/21-20:48:45.141 63a68 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/Sync Data/LevelDB/MANIFEST-000001
+2024/11/21-20:48:45.142 63a68 Recovering log #1500
+2024/11/21-20:48:45.143 63a68 Reusing old log /home/chandler/.config/google-chrome/Default/Sync Data/LevelDB/001500.log 
+2024/11/22-10:54:53.115 63a78 Level-0 table #1504: started
+2024/11/22-10:54:53.119 63a78 Level-0 table #1504: 102448 bytes OK
+2024/11/22-10:54:53.121 63a78 Delete type=0 #1500
+2024/11/22-12:35:35.325 63a78 Level-0 table #1506: started
+2024/11/22-12:35:35.328 63a78 Level-0 table #1506: 119513 bytes OK
+2024/11/22-12:35:35.329 63a78 Delete type=0 #1503
+2024/11/22-12:35:35.329 63a78 Compacting 4@0 + 1@1 files
+2024/11/22-12:35:35.333 63a78 Generated table #1507@0: 696 keys, 68372 bytes
+2024/11/22-12:35:35.333 63a78 Compacted 4@0 + 1@1 files => 68372 bytes
+2024/11/22-12:35:35.335 63a78 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/22-12:35:35.335 63a78 Delete type=2 #1506
+2024/11/22-12:35:35.335 63a78 Delete type=2 #1501
+2024/11/22-12:35:35.335 63a78 Delete type=2 #1499
+2024/11/22-12:35:35.335 63a78 Delete type=2 #1504
+2024/11/22-12:35:35.335 63a78 Delete type=2 #1497
+2024/11/22-14:30:52.328 63a69 Level-0 table #1509: started
+2024/11/22-14:30:52.332 63a69 Level-0 table #1509: 107453 bytes OK
+2024/11/22-14:30:52.334 63a69 Delete type=0 #1505

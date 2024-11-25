@@ -1,0 +1,6 @@
+2024/11/05-21:20:38.977 1559 Creating DB /home/chandler/.config/google-chrome/Default/IndexedDB/https_systemweakness.com_0.indexeddb.leveldb since it was missing.
+2024/11/05-21:20:38.979 1559 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_systemweakness.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-21:41:27.645 155a Level-0 table #5: started
+2024/11/05-21:41:27.647 155a Level-0 table #5: 29029 bytes OK
+2024/11/05-21:41:27.649 155a Delete type=0 #3
+2024/11/05-21:41:27.649 155a Manual compaction at level-0 from (begin) .. (end); will stop at (end)

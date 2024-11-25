@@ -1,0 +1,238 @@
+Visual Studio Code (1.88.1, undefined, desktop)
+Jupyter Extension Version: 2024.3.1.
+Python Extension Version: 2024.4.1.
+Pylance Extension Version: 2024.4.1.
+Platform: linux (x64).
+Workspace folder /opt/smart_farm_network_sim, Home = /home/chandler
+11:32:40.053 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, Python 3.8.10, 3.8.10) for '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' (disableUI=true)
+11:32:40.178 [warn] Failed to get activated env vars for /bin/python3 in 126ms
+11:32:40.179 [warn] Failed to get activated env vars for /bin/python3 in 105ms
+11:32:40.186 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+11:32:40.209 [info] Process Execution: /bin/python3 -m pip list
+11:32:40.213 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+11:32:40.219 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-70880c3OWvcqFBJKC.json
+    > cwd: /opt/smart_farm_network_sim/smart_farm
+11:32:40.726 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/pythonFiles/printJupyterDataDir.py
+11:33:23.750 [info] Execution of code ms-toolsai.jupyter-1 completed in 12ms
+11:33:24.227 [info] Execution of code ms-toolsai.jupyter-2 completed in 12ms
+11:33:24.325 [info] Execution of code ms-toolsai.jupyter-3 completed in 11ms
+11:33:24.467 [info] Execution of code ms-toolsai.jupyter-4 completed in 12ms
+11:33:24.587 [info] Execution of code ms-toolsai.jupyter-5 completed in 10ms
+11:33:24.692 [info] Execution of code ms-toolsai.jupyter-6 completed in 10ms
+11:33:30.880 [info] Execution of code ms-toolsai.jupyter-7 completed in 11ms
+11:33:53.995 [info] Execution of code ms-toolsai.jupyter-8 completed in 10ms
+11:33:56.259 [info] Execution of code ms-toolsai.jupyter-9 completed in 14ms
+11:33:56.275 [info] Execution of code ms-toolsai.jupyter-10 completed in 9ms
+11:33:56.822 [info] Execution of code ms-toolsai.jupyter-11 completed in 10ms
+11:33:59.793 [info] Execution of code ms-toolsai.jupyter-12 completed in 11ms
+11:33:59.805 [info] Execution of code ms-toolsai.jupyter-13 completed in 10ms
+11:34:07.904 [info] Execution of code ms-toolsai.jupyter-14 completed in 11ms
+11:34:08.782 [info] Execution of code ms-toolsai.jupyter-15 completed in 12ms
+11:34:08.791 [info] Execution of code ms-toolsai.jupyter-16 completed in 7ms
+11:34:09.266 [info] Execution of code ms-toolsai.jupyter-17 completed in 10ms
+11:34:10.059 [info] Execution of code ms-toolsai.jupyter-18 completed in 11ms
+11:34:10.191 [info] Execution of code ms-toolsai.jupyter-19 completed in 11ms
+11:34:10.462 [info] Execution of code ms-toolsai.jupyter-20 completed in 12ms
+11:34:10.614 [info] Execution of code ms-toolsai.jupyter-21 completed in 11ms
+11:34:10.700 [info] Execution of code ms-toolsai.jupyter-22 completed in 12ms
+11:34:13.174 [info] Execution of code ms-toolsai.jupyter-23 completed in 12ms
+11:34:13.211 [info] Execution of code ms-toolsai.jupyter-25 completed in 8ms
+11:34:23.574 [info] Execution of code ms-toolsai.jupyter-26 completed in 11ms
+11:34:26.548 [info] Execution of code ms-toolsai.jupyter-27 completed in 9ms
+11:34:30.660 [info] Execution of code ms-toolsai.jupyter-28 completed in 9ms
+11:34:39.094 [info] Execution of code ms-toolsai.jupyter-29 completed in 11ms
+11:34:39.384 [info] Execution of code ms-toolsai.jupyter-30 completed in 11ms
+11:34:39.648 [info] Execution of code ms-toolsai.jupyter-31 completed in 12ms
+11:34:39.887 [info] Execution of code ms-toolsai.jupyter-32 completed in 12ms
+11:34:49.559 [info] Execution of code ms-toolsai.jupyter-33 completed in 11ms
+11:34:52.591 [info] Execution of code ms-toolsai.jupyter-34 completed in 11ms
+11:34:57.347 [info] Execution of code ms-toolsai.jupyter-35 completed in 11ms
+11:34:58.586 [info] Execution of code ms-toolsai.jupyter-36 completed in 9ms
+11:35:00.294 [info] Execution of code ms-toolsai.jupyter-37 completed in 9ms
+11:35:06.531 [info] Handle Execution of Cells 2,4,6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:35:06.540 [info] Cell 2 completed in 0.001s (start: 1713454506538, end: 1713454506539)
+11:35:06.748 [info] Cell 4 completed in 0.203s (start: 1713454506545, end: 1713454506748)
+11:35:07.812 [warn] Cell completed with errors [hd [Error]: cannot convert float NaN to integer
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'ValueError',
+  evalue: 'cannot convert float NaN to integer',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[3], line 36\x1B[0m\n' +
+      '\x1B[1;32m     33\x1B[0m     plt\x1B[38;5;241m.\x1B[39mtight_layout()  \x1B[38;5;66;03m# Adjust layout to make room for rotated x-axis labels\x1B[39;00m\n' +
+      '\x1B[1;32m     34\x1B[0m     plt\x1B[38;5;241m.\x1B[39mshow()\n' +
+      '\x1B[0;32m---> 36\x1B[0m \x1B[43mplot_df\x1B[49m\x1B[43m(\x1B[49m\x1B[43mdf_ack\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m     37\x1B[0m plot_df(df_noack)\n',
+    'Cell \x1B[0;32mIn[3], line 6\x1B[0m, in \x1B[0;36mplot_df\x1B[0;34m(df)\x1B[0m\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m \x1B[38;5;21mplot_df\x1B[39m(df):\n' +
+      "\x1B[1;32m      4\x1B[0m     pivot_df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mpivot_table(index\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, columns\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, values\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m, aggfunc\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124msum\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      '\x1B[0;32m----> 6\x1B[0m     pivot_df \x1B[38;5;241m=\x1B[39m \x1B[43mpivot_df\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;28;43mint\x1B[39;49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m      8\x1B[0m     modules \x1B[38;5;241m=\x1B[39m pivot_df\x1B[38;5;241m.\x1B[39mindex\n' +
+      '\x1B[1;32m      9\x1B[0m     bar_width \x1B[38;5;241m=\x1B[39m \x1B[38;5;241m0.4\x1B[39m  \x1B[38;5;66;03m# Width of the bars\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/generic.py:5815\x1B[0m, in \x1B[0;36mNDFrame.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m   5808\x1B[0m     results \x1B[38;5;241m=\x1B[39m [\n' +
+      '\x1B[1;32m   5809\x1B[0m         \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39miloc[:, i]\x1B[38;5;241m.\x1B[39mastype(dtype, copy\x1B[38;5;241m=\x1B[39mcopy)\n' +
+      '\x1B[1;32m   5810\x1B[0m         \x1B[38;5;28;01mfor\x1B[39;00m i \x1B[38;5;129;01min\x1B[39;00m \x1B[38;5;28mrange\x1B[39m(\x1B[38;5;28mlen\x1B[39m(\x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mcolumns))\n' +
+      '\x1B[1;32m   5811\x1B[0m     ]\n' +
+      '\x1B[1;32m   5813\x1B[0m \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[1;32m   5814\x1B[0m     \x1B[38;5;66;03m# else, only a single dtype is given\x1B[39;00m\n' +
+      '\x1B[0;32m-> 5815\x1B[0m     new_data \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43m_mgr\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype\x1B[49m\x1B[43m(\x1B[49m\x1B[43mdtype\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   5816\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_constructor(new_data)\x1B[38;5;241m.\x1B[39m__finalize__(\x1B[38;5;28mself\x1B[39m, method\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124mastype\x1B[39m\x1B[38;5;124m"\x1B[39m)\n' +
+      '\x1B[1;32m   5818\x1B[0m \x1B[38;5;66;03m# GH 33113: handle empty frame or series\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py:418\x1B[0m, in \x1B[0;36mBaseBlockManager.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m    417\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m \x1B[38;5;21mastype\x1B[39m(\x1B[38;5;28mself\x1B[39m: T, dtype, copy: \x1B[38;5;28mbool\x1B[39m \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;01mFalse\x1B[39;00m, errors: \x1B[38;5;28mstr\x1B[39m \x1B[38;5;241m=\x1B[39m \x1B[38;5;124m"\x1B[39m\x1B[38;5;124mraise\x1B[39m\x1B[38;5;124m"\x1B[39m) \x1B[38;5;241m-\x1B[39m\x1B[38;5;241m>\x1B[39m T:\n' +
+      '\x1B[0;32m--> 418\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mapply\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;124;43m"\x1B[39;49m\x1B[38;5;124;43mastype\x1B[39;49m\x1B[38;5;124;43m"\x1B[39;49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py:327\x1B[0m, in \x1B[0;36mBaseBlockManager.apply\x1B[0;34m(self, f, align_keys, ignore_failures, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    325\x1B[0m         applied \x1B[38;5;241m=\x1B[39m b\x1B[38;5;241m.\x1B[39mapply(f, \x1B[38;5;241m*\x1B[39m\x1B[38;5;241m*\x1B[39mkwargs)\n' +
+      '\x1B[1;32m    326\x1B[0m     \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[0;32m--> 327\x1B[0m         applied \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mgetattr\x1B[39;49m\x1B[43m(\x1B[49m\x1B[43mb\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mf\x1B[49m\x1B[43m)\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[43mkwargs\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m    328\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m (\x1B[38;5;167;01mTypeError\x1B[39;00m, \x1B[38;5;167;01mNotImplementedError\x1B[39;00m):\n' +
+      '\x1B[1;32m    329\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;129;01mnot\x1B[39;00m ignore_failures:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/blocks.py:591\x1B[0m, in \x1B[0;36mBlock.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m    573\x1B[0m \x1B[38;5;250m\x1B[39m\x1B[38;5;124;03m"""\x1B[39;00m\n' +
+      '\x1B[1;32m    574\x1B[0m \x1B[38;5;124;03mCoerce to the new dtype.\x1B[39;00m\n' +
+      '\x1B[1;32m    575\x1B[0m \n' +
+      '\x1B[0;32m   (...)\x1B[0m\n' +
+      '\x1B[1;32m    587\x1B[0m \x1B[38;5;124;03mBlock\x1B[39;00m\n' +
+      '\x1B[1;32m    588\x1B[0m \x1B[38;5;124;03m"""\x1B[39;00m\n' +
+      '\x1B[1;32m    589\x1B[0m values \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mvalues\n' +
+      '\x1B[0;32m--> 591\x1B[0m new_values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_array_safe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m    593\x1B[0m new_values \x1B[38;5;241m=\x1B[39m maybe_coerce_values(new_values)\n' +
+      '\x1B[1;32m    594\x1B[0m newb \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mmake_block(new_values)\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1309\x1B[0m, in \x1B[0;36mastype_array_safe\x1B[0;34m(values, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m   1306\x1B[0m dtype \x1B[38;5;241m=\x1B[39m pandas_dtype(dtype)\n' +
+      '\x1B[1;32m   1308\x1B[0m \x1B[38;5;28;01mtry\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 1309\x1B[0m     new_values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_array\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1310\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m (\x1B[38;5;167;01mValueError\x1B[39;00m, \x1B[38;5;167;01mTypeError\x1B[39;00m):\n' +
+      '\x1B[1;32m   1311\x1B[0m     \x1B[38;5;66;03m# e.g. astype_nansafe can fail on object-dtype of strings\x1B[39;00m\n' +
+      '\x1B[1;32m   1312\x1B[0m     \x1B[38;5;66;03m#  trying to convert to float\x1B[39;00m\n' +
+      '\x1B[1;32m   1313\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m errors \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m"\x1B[39m\x1B[38;5;124mignore\x1B[39m\x1B[38;5;124m"\x1B[39m:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1257\x1B[0m, in \x1B[0;36mastype_array\x1B[0;34m(values, dtype, copy)\x1B[0m\n' +
+      '\x1B[1;32m   1254\x1B[0m     values \x1B[38;5;241m=\x1B[39m values\x1B[38;5;241m.\x1B[39mastype(dtype, copy\x1B[38;5;241m=\x1B[39mcopy)\n' +
+      '\x1B[1;32m   1256\x1B[0m \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 1257\x1B[0m     values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_nansafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m)\x1B[49m\n' +
+      "\x1B[1;32m   1259\x1B[0m \x1B[38;5;66;03m# in pandas we don't store numpy str dtypes, so convert to object\x1B[39;00m\n" +
+      '\x1B[1;32m   1260\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(dtype, np\x1B[38;5;241m.\x1B[39mdtype) \x1B[38;5;129;01mand\x1B[39;00m \x1B[38;5;28missubclass\x1B[39m(values\x1B[38;5;241m.\x1B[39mdtype\x1B[38;5;241m.\x1B[39mtype, \x1B[38;5;28mstr\x1B[39m):\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1095\x1B[0m, in \x1B[0;36mastype_nansafe\x1B[0;34m(arr, dtype, copy, skipna)\x1B[0m\n' +
+      '\x1B[1;32m   1093\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m arr\x1B[38;5;241m.\x1B[39mndim \x1B[38;5;241m>\x1B[39m \x1B[38;5;241m1\x1B[39m:\n' +
+      '\x1B[1;32m   1094\x1B[0m     flat \x1B[38;5;241m=\x1B[39m arr\x1B[38;5;241m.\x1B[39mravel()\n' +
+      '\x1B[0;32m-> 1095\x1B[0m     result \x1B[38;5;241m=\x1B[39m \x1B[43mastype_nansafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mflat\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mskipna\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mskipna\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1096\x1B[0m     \x1B[38;5;66;03m# error: Item "ExtensionArray" of "Union[ExtensionArray, ndarray]" has no\x1B[39;00m\n' +
+      '\x1B[1;32m   1097\x1B[0m     \x1B[38;5;66;03m# attribute "reshape"\x1B[39;00m\n' +
+      '\x1B[1;32m   1098\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m result\x1B[38;5;241m.\x1B[39mreshape(arr\x1B[38;5;241m.\x1B[39mshape)  \x1B[38;5;66;03m# type: ignore[union-attr]\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1174\x1B[0m, in \x1B[0;36mastype_nansafe\x1B[0;34m(arr, dtype, copy, skipna)\x1B[0m\n' +
+      '\x1B[1;32m   1170\x1B[0m \x1B[38;5;28;01melif\x1B[39;00m is_object_dtype(arr):\n' +
+      '\x1B[1;32m   1171\x1B[0m \n' +
+      '\x1B[1;32m   1172\x1B[0m     \x1B[38;5;66;03m# work around NumPy brokenness, #1987\x1B[39;00m\n' +
+      '\x1B[1;32m   1173\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m np\x1B[38;5;241m.\x1B[39missubdtype(dtype\x1B[38;5;241m.\x1B[39mtype, np\x1B[38;5;241m.\x1B[39minteger):\n' +
+      '\x1B[0;32m-> 1174\x1B[0m         \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[43mlib\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype_intsafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43marr\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1176\x1B[0m     \x1B[38;5;66;03m# if we have a datetime/timedelta array of objects\x1B[39;00m\n' +
+      '\x1B[1;32m   1177\x1B[0m     \x1B[38;5;66;03m# then coerce to a proper dtype and recall astype_nansafe\x1B[39;00m\n' +
+      '\x1B[1;32m   1179\x1B[0m     \x1B[38;5;28;01melif\x1B[39;00m is_datetime64_dtype(dtype):\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/lib.pyx:679\x1B[0m, in \x1B[0;36mpandas._libs.lib.astype_intsafe\x1B[0;34m()\x1B[0m\n',
+    '\x1B[0;31mValueError\x1B[0m: cannot convert float NaN to integer'
+  ]
+}
+11:35:07.815 [info] Cell 6 completed in 1.057s (start: 1713454506755, end: 1713454507812)
+11:35:13.138 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:35:13.172 [info] Cell 4 completed in 0.026s (start: 1713454513146, end: 1713454513172)
+11:35:19.314 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:35:19.429 [warn] Cell completed with errors [hd [Error]: cannot convert float NaN to integer
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'ValueError',
+  evalue: 'cannot convert float NaN to integer',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[5], line 36\x1B[0m\n' +
+      '\x1B[1;32m     33\x1B[0m     plt\x1B[38;5;241m.\x1B[39mtight_layout()  \x1B[38;5;66;03m# Adjust layout to make room for rotated x-axis labels\x1B[39;00m\n' +
+      '\x1B[1;32m     34\x1B[0m     plt\x1B[38;5;241m.\x1B[39mshow()\n' +
+      '\x1B[0;32m---> 36\x1B[0m \x1B[43mplot_df\x1B[49m\x1B[43m(\x1B[49m\x1B[43mdf_ack\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m     37\x1B[0m plot_df(df_noack)\n',
+    'Cell \x1B[0;32mIn[5], line 6\x1B[0m, in \x1B[0;36mplot_df\x1B[0;34m(df)\x1B[0m\n' +
+      '\x1B[1;32m      3\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m \x1B[38;5;21mplot_df\x1B[39m(df):\n' +
+      "\x1B[1;32m      4\x1B[0m     pivot_df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mpivot_table(index\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, columns\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, values\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m, aggfunc\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124msum\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      '\x1B[0;32m----> 6\x1B[0m     pivot_df \x1B[38;5;241m=\x1B[39m \x1B[43mpivot_df\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;28;43mint\x1B[39;49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m      8\x1B[0m     modules \x1B[38;5;241m=\x1B[39m pivot_df\x1B[38;5;241m.\x1B[39mindex\n' +
+      '\x1B[1;32m      9\x1B[0m     bar_width \x1B[38;5;241m=\x1B[39m \x1B[38;5;241m0.4\x1B[39m  \x1B[38;5;66;03m# Width of the bars\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/generic.py:5815\x1B[0m, in \x1B[0;36mNDFrame.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m   5808\x1B[0m     results \x1B[38;5;241m=\x1B[39m [\n' +
+      '\x1B[1;32m   5809\x1B[0m         \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39miloc[:, i]\x1B[38;5;241m.\x1B[39mastype(dtype, copy\x1B[38;5;241m=\x1B[39mcopy)\n' +
+      '\x1B[1;32m   5810\x1B[0m         \x1B[38;5;28;01mfor\x1B[39;00m i \x1B[38;5;129;01min\x1B[39;00m \x1B[38;5;28mrange\x1B[39m(\x1B[38;5;28mlen\x1B[39m(\x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mcolumns))\n' +
+      '\x1B[1;32m   5811\x1B[0m     ]\n' +
+      '\x1B[1;32m   5813\x1B[0m \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[1;32m   5814\x1B[0m     \x1B[38;5;66;03m# else, only a single dtype is given\x1B[39;00m\n' +
+      '\x1B[0;32m-> 5815\x1B[0m     new_data \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43m_mgr\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype\x1B[49m\x1B[43m(\x1B[49m\x1B[43mdtype\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   5816\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_constructor(new_data)\x1B[38;5;241m.\x1B[39m__finalize__(\x1B[38;5;28mself\x1B[39m, method\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m"\x1B[39m\x1B[38;5;124mastype\x1B[39m\x1B[38;5;124m"\x1B[39m)\n' +
+      '\x1B[1;32m   5818\x1B[0m \x1B[38;5;66;03m# GH 33113: handle empty frame or series\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py:418\x1B[0m, in \x1B[0;36mBaseBlockManager.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m    417\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m \x1B[38;5;21mastype\x1B[39m(\x1B[38;5;28mself\x1B[39m: T, dtype, copy: \x1B[38;5;28mbool\x1B[39m \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;01mFalse\x1B[39;00m, errors: \x1B[38;5;28mstr\x1B[39m \x1B[38;5;241m=\x1B[39m \x1B[38;5;124m"\x1B[39m\x1B[38;5;124mraise\x1B[39m\x1B[38;5;124m"\x1B[39m) \x1B[38;5;241m-\x1B[39m\x1B[38;5;241m>\x1B[39m T:\n' +
+      '\x1B[0;32m--> 418\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mapply\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;124;43m"\x1B[39;49m\x1B[38;5;124;43mastype\x1B[39;49m\x1B[38;5;124;43m"\x1B[39;49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/managers.py:327\x1B[0m, in \x1B[0;36mBaseBlockManager.apply\x1B[0;34m(self, f, align_keys, ignore_failures, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    325\x1B[0m         applied \x1B[38;5;241m=\x1B[39m b\x1B[38;5;241m.\x1B[39mapply(f, \x1B[38;5;241m*\x1B[39m\x1B[38;5;241m*\x1B[39mkwargs)\n' +
+      '\x1B[1;32m    326\x1B[0m     \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[0;32m--> 327\x1B[0m         applied \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mgetattr\x1B[39;49m\x1B[43m(\x1B[49m\x1B[43mb\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mf\x1B[49m\x1B[43m)\x1B[49m\x1B[43m(\x1B[49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[43mkwargs\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m    328\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m (\x1B[38;5;167;01mTypeError\x1B[39;00m, \x1B[38;5;167;01mNotImplementedError\x1B[39;00m):\n' +
+      '\x1B[1;32m    329\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;129;01mnot\x1B[39;00m ignore_failures:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/internals/blocks.py:591\x1B[0m, in \x1B[0;36mBlock.astype\x1B[0;34m(self, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m    573\x1B[0m \x1B[38;5;250m\x1B[39m\x1B[38;5;124;03m"""\x1B[39;00m\n' +
+      '\x1B[1;32m    574\x1B[0m \x1B[38;5;124;03mCoerce to the new dtype.\x1B[39;00m\n' +
+      '\x1B[1;32m    575\x1B[0m \n' +
+      '\x1B[0;32m   (...)\x1B[0m\n' +
+      '\x1B[1;32m    587\x1B[0m \x1B[38;5;124;03mBlock\x1B[39;00m\n' +
+      '\x1B[1;32m    588\x1B[0m \x1B[38;5;124;03m"""\x1B[39;00m\n' +
+      '\x1B[1;32m    589\x1B[0m values \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mvalues\n' +
+      '\x1B[0;32m--> 591\x1B[0m new_values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_array_safe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43merrors\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43merrors\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m    593\x1B[0m new_values \x1B[38;5;241m=\x1B[39m maybe_coerce_values(new_values)\n' +
+      '\x1B[1;32m    594\x1B[0m newb \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mmake_block(new_values)\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1309\x1B[0m, in \x1B[0;36mastype_array_safe\x1B[0;34m(values, dtype, copy, errors)\x1B[0m\n' +
+      '\x1B[1;32m   1306\x1B[0m dtype \x1B[38;5;241m=\x1B[39m pandas_dtype(dtype)\n' +
+      '\x1B[1;32m   1308\x1B[0m \x1B[38;5;28;01mtry\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 1309\x1B[0m     new_values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_array\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1310\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m (\x1B[38;5;167;01mValueError\x1B[39;00m, \x1B[38;5;167;01mTypeError\x1B[39;00m):\n' +
+      '\x1B[1;32m   1311\x1B[0m     \x1B[38;5;66;03m# e.g. astype_nansafe can fail on object-dtype of strings\x1B[39;00m\n' +
+      '\x1B[1;32m   1312\x1B[0m     \x1B[38;5;66;03m#  trying to convert to float\x1B[39;00m\n' +
+      '\x1B[1;32m   1313\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m errors \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m"\x1B[39m\x1B[38;5;124mignore\x1B[39m\x1B[38;5;124m"\x1B[39m:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1257\x1B[0m, in \x1B[0;36mastype_array\x1B[0;34m(values, dtype, copy)\x1B[0m\n' +
+      '\x1B[1;32m   1254\x1B[0m     values \x1B[38;5;241m=\x1B[39m values\x1B[38;5;241m.\x1B[39mastype(dtype, copy\x1B[38;5;241m=\x1B[39mcopy)\n' +
+      '\x1B[1;32m   1256\x1B[0m \x1B[38;5;28;01melse\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 1257\x1B[0m     values \x1B[38;5;241m=\x1B[39m \x1B[43mastype_nansafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mvalues\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m)\x1B[49m\n' +
+      "\x1B[1;32m   1259\x1B[0m \x1B[38;5;66;03m# in pandas we don't store numpy str dtypes, so convert to object\x1B[39;00m\n" +
+      '\x1B[1;32m   1260\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28misinstance\x1B[39m(dtype, np\x1B[38;5;241m.\x1B[39mdtype) \x1B[38;5;129;01mand\x1B[39;00m \x1B[38;5;28missubclass\x1B[39m(values\x1B[38;5;241m.\x1B[39mdtype\x1B[38;5;241m.\x1B[39mtype, \x1B[38;5;28mstr\x1B[39m):\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1095\x1B[0m, in \x1B[0;36mastype_nansafe\x1B[0;34m(arr, dtype, copy, skipna)\x1B[0m\n' +
+      '\x1B[1;32m   1093\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m arr\x1B[38;5;241m.\x1B[39mndim \x1B[38;5;241m>\x1B[39m \x1B[38;5;241m1\x1B[39m:\n' +
+      '\x1B[1;32m   1094\x1B[0m     flat \x1B[38;5;241m=\x1B[39m arr\x1B[38;5;241m.\x1B[39mravel()\n' +
+      '\x1B[0;32m-> 1095\x1B[0m     result \x1B[38;5;241m=\x1B[39m \x1B[43mastype_nansafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43mflat\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mcopy\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mcopy\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mskipna\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mskipna\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1096\x1B[0m     \x1B[38;5;66;03m# error: Item "ExtensionArray" of "Union[ExtensionArray, ndarray]" has no\x1B[39;00m\n' +
+      '\x1B[1;32m   1097\x1B[0m     \x1B[38;5;66;03m# attribute "reshape"\x1B[39;00m\n' +
+      '\x1B[1;32m   1098\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m result\x1B[38;5;241m.\x1B[39mreshape(arr\x1B[38;5;241m.\x1B[39mshape)  \x1B[38;5;66;03m# type: ignore[union-attr]\x1B[39;00m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/dtypes/cast.py:1174\x1B[0m, in \x1B[0;36mastype_nansafe\x1B[0;34m(arr, dtype, copy, skipna)\x1B[0m\n' +
+      '\x1B[1;32m   1170\x1B[0m \x1B[38;5;28;01melif\x1B[39;00m is_object_dtype(arr):\n' +
+      '\x1B[1;32m   1171\x1B[0m \n' +
+      '\x1B[1;32m   1172\x1B[0m     \x1B[38;5;66;03m# work around NumPy brokenness, #1987\x1B[39;00m\n' +
+      '\x1B[1;32m   1173\x1B[0m     \x1B[38;5;28;01mif\x1B[39;00m np\x1B[38;5;241m.\x1B[39missubdtype(dtype\x1B[38;5;241m.\x1B[39mtype, np\x1B[38;5;241m.\x1B[39minteger):\n' +
+      '\x1B[0;32m-> 1174\x1B[0m         \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[43mlib\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mastype_intsafe\x1B[49m\x1B[43m(\x1B[49m\x1B[43marr\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mdtype\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   1176\x1B[0m     \x1B[38;5;66;03m# if we have a datetime/timedelta array of objects\x1B[39;00m\n' +
+      '\x1B[1;32m   1177\x1B[0m     \x1B[38;5;66;03m# then coerce to a proper dtype and recall astype_nansafe\x1B[39;00m\n' +
+      '\x1B[1;32m   1179\x1B[0m     \x1B[38;5;28;01melif\x1B[39;00m is_datetime64_dtype(dtype):\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/lib.pyx:679\x1B[0m, in \x1B[0;36mpandas._libs.lib.astype_intsafe\x1B[0;34m()\x1B[0m\n',
+    '\x1B[0;31mValueError\x1B[0m: cannot convert float NaN to integer'
+  ]
+}
+11:35:19.431 [info] Cell 6 completed in 0.1s (start: 1713454519329, end: 1713454519429)
+11:35:33.323 [info] Execution of code ms-toolsai.jupyter-38 completed in 12ms
+11:35:34.060 [info] Execution of code ms-toolsai.jupyter-39 completed in 13ms
+11:35:35.681 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:35:35.726 [info] Cell 4 completed in 0.038s (start: 1713454535688, end: 1713454535726)
+11:35:57.322 [info] Execution of code ms-toolsai.jupyter-40 completed in 12ms
+11:35:57.909 [info] Execution of code ms-toolsai.jupyter-41 completed in 11ms
+11:36:06.642 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:36:06.677 [info] Cell 4 completed in 0.027s (start: 1713454566650, end: 1713454566677)
+11:36:09.217 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:36:09.471 [info] Cell 6 completed in 0.241s (start: 1713454569230, end: 1713454569471)
+11:36:20.698 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+11:36:21.022 [info] Cell 6 completed in 0.314s (start: 1713454580708, end: 1713454581022)
+11:42:27.933 [info] Disposing HostJupyterExecution
+11:42:27.933 [info] Dispose Kernel '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' associated with '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+11:42:27.941 [info] Disposing HostJupyterExecution

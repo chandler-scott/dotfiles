@@ -1,0 +1,30 @@
+2024/11/05-21:12:34.458 1559 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-21:12:34.459 1559 Recovering log #946
+2024/11/05-21:12:34.459 1559 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000946.log 
+2024/11/05-21:12:34.467 1559 Level-0 table #950: started
+2024/11/05-21:12:34.468 1559 Level-0 table #950: 549 bytes OK
+2024/11/05-21:12:34.470 1559 Delete type=0 #946
+2024/11/05-21:12:34.470 1559 Manual compaction at level-0 from ' ,\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' -\x01\x00\x00\x00' @ 0 : 0; will stop at ' ,\x01\x00\x00\x05' @ 37740 : 1
+2024/11/05-21:12:34.470 1559 Compacting 1@0 + 1@1 files
+2024/11/05-21:12:34.471 1559 Generated table #951@0: 13 keys, 926 bytes
+2024/11/05-21:12:34.471 1559 Compacted 1@0 + 1@1 files => 926 bytes
+2024/11/05-21:12:34.472 1559 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/05-21:12:34.473 1559 Delete type=2 #950
+2024/11/05-21:12:34.473 1559 Manual compaction at level-0 from ' ,\x01\x00\x00\x05' @ 37740 : 1 .. ' -\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-21:12:35.379 155b Level-0 table #953: started
+2024/11/05-21:12:35.380 1565 Current memtable full; waiting...
+2024/11/05-21:12:35.381 155b Level-0 table #953: 626 bytes OK
+2024/11/05-21:12:35.382 155b Delete type=0 #949
+2024/11/05-21:12:35.382 155b Delete type=2 #947
+2024/11/05-21:12:35.383 155b Level-0 table #955: started
+2024/11/05-21:12:35.384 155b Level-0 table #955: 473 bytes OK
+2024/11/05-21:12:35.385 155b Delete type=0 #952
+2024/11/05-21:12:35.385 155b Manual compaction at level-0 from ' .\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' /\x01\x00\x00\x00' @ 0 : 0; will stop at ' .\x01\x00\x00\x05' @ 37786 : 0
+2024/11/05-21:12:35.385 155b Compacting 2@0 + 1@1 files
+2024/11/05-21:12:35.386 155b Generated table #956@0: 22 keys, 1034 bytes
+2024/11/05-21:12:35.386 155b Compacted 2@0 + 1@1 files => 1034 bytes
+2024/11/05-21:12:35.387 155b compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/05-21:12:35.388 155b Delete type=2 #955
+2024/11/05-21:12:35.388 155b Delete type=2 #953
+2024/11/05-21:12:35.388 1559 Manual compaction at level-0 from ' .\x01\x00\x00\x05' @ 37786 : 0 .. ' /\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-21:12:35.388 1559 Manual compaction at level-0 from ' -\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' .\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

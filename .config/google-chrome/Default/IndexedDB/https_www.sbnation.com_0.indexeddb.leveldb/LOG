@@ -1,0 +1,6 @@
+2024/09/03-20:57:24.260 29fc5 Creating DB /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.sbnation.com_0.indexeddb.leveldb since it was missing.
+2024/09/03-20:57:24.262 29fc5 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.sbnation.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/03-21:15:46.953 29fc6 Level-0 table #5: started
+2024/09/03-21:15:46.954 29fc6 Level-0 table #5: 850 bytes OK
+2024/09/03-21:15:46.955 29fc6 Delete type=0 #3
+2024/09/03-21:15:46.955 29fc6 Manual compaction at level-0 from (begin) .. (end); will stop at (end)

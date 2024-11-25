@@ -1,0 +1,15 @@
+2024-04-17 14:42:10.383 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-17 14:42:10.797 [info] [Info  - 2:42:10 PM] (59957) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-17 14:42:10.797 [info] [Info  - 2:42:10 PM] (59957) Server root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-17 14:42:10.799 [info] [Info  - 2:42:10 PM] (59957) Starting service instance "smart_farm_network_sim"
+2024-04-17 14:42:10.826 [info] [Info  - 2:42:10 PM] (59957) Setting pythonPath for service "smart_farm_network_sim": "/bin/python3"
+2024-04-17 14:42:10.826 [info] [Info  - 2:42:10 PM] (59957) Setting environmentName for service "smart_farm_network_sim": "3.8.10 (global)"
+2024-04-17 14:42:10.852 [info] [Info  - 2:42:10 PM] (59957) Assuming Python version 3.8.10.final.0
+2024-04-17 14:42:10.901 [info] [Info  - 2:42:10 PM] (59957) No source files found.
+2024-04-17 14:42:11.363 [info] [Info  - 2:42:11 PM] (59957) Background analysis(1) root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-17 14:42:11.372 [info] [Info  - 2:42:11 PM] (59957) Background analysis(1) started
+2024-04-17 14:42:11.381 [info] [Info  - 2:42:11 PM] (59957) Indexer background runner(2) root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-17 14:42:11.382 [info] [Info  - 2:42:11 PM] (59957) Indexing(2) started
+2024-04-17 14:42:11.846 [info] [Info  - 2:42:11 PM] (59957) scanned(2) 330 files over 1 exec env
+2024-04-17 14:42:12.903 [info] [Info  - 2:42:12 PM] (59957) indexed(2) 232 files over 1 exec env
+2024-04-17 14:42:13.104 [info] [Info  - 2:42:13 PM] (59957) Indexing finished(2).

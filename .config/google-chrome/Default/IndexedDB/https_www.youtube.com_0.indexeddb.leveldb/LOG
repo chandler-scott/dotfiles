@@ -1,0 +1,12 @@
+2024/11/15-10:54:13.279 3cbb0 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/15-10:54:13.279 3cbb0 Recovering log #26
+2024/11/15-10:54:13.288 3cbb0 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.youtube.com_0.indexeddb.leveldb/000026.log 
+2024/11/15-10:54:17.317 3cbb1 Level-0 table #31: started
+2024/11/15-10:54:17.331 3cbb1 Level-0 table #31: 1246031 bytes OK
+2024/11/15-10:54:17.333 3cbb1 Delete type=0 #26
+2024/11/15-10:56:45.487 3cbb1 Compacting 1@1 + 1@2 files
+2024/11/15-10:56:45.494 3cbb1 Generated table #32@1: 357 keys, 40629 bytes
+2024/11/15-10:56:45.494 3cbb1 Compacted 1@1 + 1@2 files => 40629 bytes
+2024/11/15-10:56:45.495 3cbb1 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/15-10:56:45.495 3cbb1 Delete type=2 #28
+2024/11/15-10:56:45.495 3cbb1 Delete type=2 #31

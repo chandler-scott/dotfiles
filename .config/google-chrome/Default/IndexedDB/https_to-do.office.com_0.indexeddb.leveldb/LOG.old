@@ -1,0 +1,22 @@
+2024/11/12-22:42:52.721 2eb94 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/12-22:42:52.721 2eb94 Recovering log #560
+2024/11/12-22:42:52.721 2eb94 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/000560.log 
+2024/11/12-22:42:52.725 2eb94 Level-0 table #565: started
+2024/11/12-22:42:52.726 2eb94 Level-0 table #565: 478 bytes OK
+2024/11/12-22:42:52.727 2eb94 Delete type=0 #560
+2024/11/12-22:42:52.727 2eb94 Manual compaction at level-0 from '\x00b\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00c\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-22:42:52.737 2eb94 Level-0 table #567: started
+2024/11/12-22:42:52.739 2eb94 Level-0 table #567: 503 bytes OK
+2024/11/12-22:42:52.740 2eb94 Delete type=0 #564
+2024/11/12-22:42:52.741 2eb94 Level-0 table #569: started
+2024/11/12-22:42:52.742 2eb94 Level-0 table #569: 474 bytes OK
+2024/11/12-22:42:52.743 2eb94 Delete type=0 #566
+2024/11/12-22:42:52.743 2eb94 Manual compaction at level-0 from '\x00c\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at '\x00c\x00\x00\x05' @ 419728 : 1
+2024/11/12-22:42:52.743 2eb94 Compacting 2@0 + 1@1 files
+2024/11/12-22:42:52.744 2eb94 Generated table #570@0: 16 keys, 531 bytes
+2024/11/12-22:42:52.744 2eb94 Compacted 2@0 + 1@1 files => 531 bytes
+2024/11/12-22:42:52.745 2eb94 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/12-22:42:52.746 2eb94 Delete type=2 #567
+2024/11/12-22:42:52.746 2eb94 Delete type=2 #569
+2024/11/12-22:42:52.746 2eb94 Manual compaction at level-0 from '\x00c\x00\x00\x05' @ 419728 : 1 .. '\x00d\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/12-22:42:52.746 2eb94 Manual compaction at level-0 from '\x00d\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00e\x00\x00\x00' @ 0 : 0; will stop at (end)

@@ -1,0 +1,283 @@
+Visual Studio Code (1.88.1, undefined, desktop)
+Jupyter Extension Version: 2024.3.1.
+Python Extension not installed.
+Pylance Extension not installed.
+Platform: linux (x64).
+Workspace folder /opt/smart_farm_network_sim, Home = /home/chandler
+14:31:49.095 [info] No interpreter for Pylance for Notebook URI "/opt/smart_farm_network_sim/smart_farm/analysis.ipynb"
+14:31:52.535 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, Python 3.8.10, 3.8.10) for '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' (disableUI=true)
+14:31:52.538 [info] Handle Execution of Cells 2 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:31:52.551 [warn] Failed to get activated env vars for /bin/python3 in 34ms
+14:31:52.555 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+14:31:52.559 [warn] Failed to get activated env vars for /bin/python3 in 14ms
+14:31:52.575 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+14:31:52.576 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+14:31:52.580 [info] Process Execution: /bin/python3 -m pip list
+14:31:52.582 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:31:52.585 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-58274TCdo8T7xLf7T.json
+    > cwd: /opt/smart_farm_network_sim/smart_farm
+14:31:52.599 [warn] StdErr from Kernel Process /bin/python3: No module named ipykernel_launcher
+14:31:52.602 [error] Disposing kernel process due to an error Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:337:2035)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+14:31:52.605 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+14:31:52.605 [error] Failed to connect raw kernel session: Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+14:31:52.605 [warn] Failed to shutdown kernel, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher [TypeError: Cannot read properties of undefined (reading 'dispose')
+	at CT.shutdown (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:342:15602)
+	at process.processTicksAndRejections (node:internal/process/task_queues:95:5)
+	at async wT.shutdown (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:342:24191)]
+14:31:52.607 [warn] Error occurred while trying to start the kernel, options.disableUI=false Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:337:2035)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+14:31:52.607 [warn] Kernel Error, context = start Error: The kernel died. Error: /bin/python3: No module named ipykernel_launcher... View Jupyter [log](command:jupyter.viewOutput) for further details.
+    > Kernel Id = .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher
+    > Interpreter Id = /bin/python3
+    > at ChildProcess.<anonymous> (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:337:2035)
+    > stdErr = /bin/python3: No module named ipykernel_launcher
+14:31:52.612 [info] Process Execution: /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:31:52.704 [info] Check & install missing Kernel dependencies for /bin/python3, ui.disabled=false for resource '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+14:31:52.709 [info] Process Execution: /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:31:52.805 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:31:56.815 [info] Process Execution: /bin/python3 -c "import pip;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:31:56.843 [info] Process Execution: /bin/python3 -m pip install -U --user ipykernel
+14:32:00.146 [info] Process Execution: /bin/python3 -c "import ipykernel;print('6af208d0-cb9c-427f-b937-ff563e17efdf')"
+14:32:00.258 [info] Dispose Kernel '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' associated with '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+14:32:00.263 [info] Process Execution: /bin/python3 -m pip list
+14:32:00.263 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, Python 3.8.10, 3.8.10) for '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' (disableUI=false)
+14:32:00.269 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+14:32:00.279 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-58274hOyau5YoH4r9.json
+    > cwd: /opt/smart_farm_network_sim/smart_farm
+14:32:01.064 [info] Cell 2 completed in 0.264s (start: 1713378720799, end: 1713378721063)
+14:32:42.147 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:32:42.356 [info] Cell 4 completed in 0.202s (start: 1713378762153, end: 1713378762355)
+14:33:08.942 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:33:08.972 [info] Cell 4 completed in 0.023s (start: 1713378788949, end: 1713378788972)
+14:33:47.134 [info] Execution of code ms-toolsai.jupyter-1 completed in 11ms
+14:33:47.144 [info] Execution of code ms-toolsai.jupyter-2 completed in 8ms
+14:33:47.822 [info] Execution of code ms-toolsai.jupyter-3 completed in 11ms
+14:33:51.681 [info] Execution of code ms-toolsai.jupyter-4 completed in 22ms
+14:33:52.302 [info] Execution of code ms-toolsai.jupyter-5 completed in 11ms
+14:33:52.371 [info] Execution of code ms-toolsai.jupyter-6 completed in 10ms
+14:33:52.511 [info] Execution of code ms-toolsai.jupyter-7 completed in 38ms
+14:33:54.158 [info] Execution of code ms-toolsai.jupyter-8 completed in 10ms
+14:33:56.282 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:33:56.808 [warn] Cell completed with errors [hd [Error]: False
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'KeyError',
+  evalue: 'False',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mKeyError\x1B[0m                                  Traceback (most recent call last)',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py:3361\x1B[0m, in \x1B[0;36mIndex.get_loc\x1B[0;34m(self, key, method, tolerance)\x1B[0m\n' +
+      '\x1B[1;32m   3360\x1B[0m \x1B[38;5;28;01mtry\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 3361\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43m_engine\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mget_loc\x1B[49m\x1B[43m(\x1B[49m\x1B[43mcasted_key\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   3362\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m err:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/index.pyx:76\x1B[0m, in \x1B[0;36mpandas._libs.index.IndexEngine.get_loc\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/index.pyx:108\x1B[0m, in \x1B[0;36mpandas._libs.index.IndexEngine.get_loc\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32mpandas/_libs/hashtable_class_helper.pxi:5198\x1B[0m, in \x1B[0;36mpandas._libs.hashtable.PyObjectHashTable.get_item\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32mpandas/_libs/hashtable_class_helper.pxi:5206\x1B[0m, in \x1B[0;36mpandas._libs.hashtable.PyObjectHashTable.get_item\x1B[0;34m()\x1B[0m\n',
+    '\x1B[0;31mKeyError\x1B[0m: False',
+    '\nThe above exception was the direct cause of the following exception:\n',
+    '\x1B[0;31mKeyError\x1B[0m                                  Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[4], line 9\x1B[0m\n' +
+      '\x1B[1;32m      4\x1B[0m df \x1B[38;5;241m=\x1B[39m pd\x1B[38;5;241m.\x1B[39mread_csv(csv_file, low_memory\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mFalse\x1B[39;00m)\n' +
+      "\x1B[1;32m      7\x1B[0m scalar_df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mloc[(df[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtype\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mscalar\x1B[39m\x1B[38;5;124m'\x1B[39m), [\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m]]\n" +
+      "\x1B[0;32m----> 9\x1B[0m \x1B[43mscalar_df\x1B[49m\x1B[43m[\x1B[49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[38;5;124;43mname\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[43m \x1B[49m\x1B[38;5;241;43m==\x1B[39;49m\x1B[43m \x1B[49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[38;5;124;43mfarm_network.radioMedium\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[43m]\x1B[49m\n",
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py:3458\x1B[0m, in \x1B[0;36mDataFrame.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3456\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mcolumns\x1B[38;5;241m.\x1B[39mnlevels \x1B[38;5;241m>\x1B[39m \x1B[38;5;241m1\x1B[39m:\n' +
+      '\x1B[1;32m   3457\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_multilevel(key)\n' +
+      '\x1B[0;32m-> 3458\x1B[0m indexer \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mcolumns\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mget_loc\x1B[49m\x1B[43m(\x1B[49m\x1B[43mkey\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   3459\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(indexer):\n' +
+      '\x1B[1;32m   3460\x1B[0m     indexer \x1B[38;5;241m=\x1B[39m [indexer]\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py:3363\x1B[0m, in \x1B[0;36mIndex.get_loc\x1B[0;34m(self, key, method, tolerance)\x1B[0m\n' +
+      '\x1B[1;32m   3361\x1B[0m         \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_engine\x1B[38;5;241m.\x1B[39mget_loc(casted_key)\n' +
+      '\x1B[1;32m   3362\x1B[0m     \x1B[38;5;28;01mexcept\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m err:\n' +
+      '\x1B[0;32m-> 3363\x1B[0m         \x1B[38;5;28;01mraise\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m(key) \x1B[38;5;28;01mfrom\x1B[39;00m \x1B[38;5;21;01merr\x1B[39;00m\n' +
+      '\x1B[1;32m   3365\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_scalar(key) \x1B[38;5;129;01mand\x1B[39;00m isna(key) \x1B[38;5;129;01mand\x1B[39;00m \x1B[38;5;129;01mnot\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mhasnans:\n' +
+      '\x1B[1;32m   3366\x1B[0m     \x1B[38;5;28;01mraise\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m(key)\n',
+    '\x1B[0;31mKeyError\x1B[0m: False'
+  ]
+}
+14:33:56.813 [info] Cell 4 completed in 0.519s (start: 1713378836288, end: 1713378836807)
+14:34:04.120 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:34:04.151 [warn] Cell completed with errors [hd [Error]: Item wrong length 1 instead of 652.
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'ValueError',
+  evalue: 'Item wrong length 1 instead of 652.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipykernel_58841/2577962848.py\x1B[0m in \x1B[0;36m?\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 9\x1B[0;31m \x1B[0;32mimport\x1B[0m \x1B[0mpandas\x1B[0m \x1B[0;32mas\x1B[0m \x1B[0mpd\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m     10\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      "\x1B[1;32m     11\x1B[0m \x1B[0mcsv_file\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34mf'{results_filepath}/Results_4-17.csv'\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m     12\x1B[0m \x1B[0mdf\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpd\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mread_csv\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mcsv_file\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mlow_memory\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mFalse\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3445\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mwhere\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3446\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3447\x1B[0m         \x1B[0;31m# Do we have a (boolean) 1d indexer?\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3448\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mcom\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mis_bool_indexer\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 3449\x1B[0;31m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_getitem_bool_array\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   3450\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3451\x1B[0m         \x1B[0;31m# We are left with two options: a single key, and a collection of keys,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3452\x1B[0m         \x1B[0;31m# We interpret tuples as collections only for non-MultiIndex\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3492\x1B[0m                 \x1B[0mUserWarning\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3493\x1B[0m                 \x1B[0mstacklevel\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;36m3\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3494\x1B[0m             )\n' +
+      '\x1B[1;32m   3495\x1B[0m         \x1B[0;32melif\x1B[0m \x1B[0mlen\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m \x1B[0;34m!=\x1B[0m \x1B[0mlen\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mindex\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 3496\x1B[0;31m             raise ValueError(\n' +
+      '\x1B[0m\x1B[1;32m   3497\x1B[0m                 \x1B[0;34mf"Item wrong length {len(key)} instead of {len(self.index)}."\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3498\x1B[0m             )\n' +
+      '\x1B[1;32m   3499\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mValueError\x1B[0m: Item wrong length 1 instead of 652.'
+  ]
+}
+14:34:04.151 [info] Cell 4 completed in 0.025s (start: 1713378844126, end: 1713378844151)
+14:34:08.082 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:34:08.139 [warn] Cell completed with errors [hd [Error]: False
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'KeyError',
+  evalue: 'False',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mKeyError\x1B[0m                                  Traceback (most recent call last)',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py:3361\x1B[0m, in \x1B[0;36mIndex.get_loc\x1B[0;34m(self, key, method, tolerance)\x1B[0m\n' +
+      '\x1B[1;32m   3360\x1B[0m \x1B[38;5;28;01mtry\x1B[39;00m:\n' +
+      '\x1B[0;32m-> 3361\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43m_engine\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mget_loc\x1B[49m\x1B[43m(\x1B[49m\x1B[43mcasted_key\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   3362\x1B[0m \x1B[38;5;28;01mexcept\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m err:\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/index.pyx:76\x1B[0m, in \x1B[0;36mpandas._libs.index.IndexEngine.get_loc\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/_libs/index.pyx:108\x1B[0m, in \x1B[0;36mpandas._libs.index.IndexEngine.get_loc\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32mpandas/_libs/hashtable_class_helper.pxi:5198\x1B[0m, in \x1B[0;36mpandas._libs.hashtable.PyObjectHashTable.get_item\x1B[0;34m()\x1B[0m\n',
+    'File \x1B[0;32mpandas/_libs/hashtable_class_helper.pxi:5206\x1B[0m, in \x1B[0;36mpandas._libs.hashtable.PyObjectHashTable.get_item\x1B[0;34m()\x1B[0m\n',
+    '\x1B[0;31mKeyError\x1B[0m: False',
+    '\nThe above exception was the direct cause of the following exception:\n',
+    '\x1B[0;31mKeyError\x1B[0m                                  Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[6], line 9\x1B[0m\n' +
+      '\x1B[1;32m      4\x1B[0m df \x1B[38;5;241m=\x1B[39m pd\x1B[38;5;241m.\x1B[39mread_csv(csv_file, low_memory\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mFalse\x1B[39;00m)\n' +
+      "\x1B[1;32m      7\x1B[0m scalar_df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mloc[(df[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtype\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mscalar\x1B[39m\x1B[38;5;124m'\x1B[39m), [\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m]]\n" +
+      "\x1B[0;32m----> 9\x1B[0m \x1B[43mscalar_df\x1B[49m\x1B[43m[\x1B[49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[38;5;124;43mname\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[43m \x1B[49m\x1B[38;5;241;43m==\x1B[39;49m\x1B[43m \x1B[49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[38;5;124;43mfarm_network.radioMedium\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[43m]\x1B[49m\n",
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py:3458\x1B[0m, in \x1B[0;36mDataFrame.__getitem__\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3456\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mcolumns\x1B[38;5;241m.\x1B[39mnlevels \x1B[38;5;241m>\x1B[39m \x1B[38;5;241m1\x1B[39m:\n' +
+      '\x1B[1;32m   3457\x1B[0m     \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_getitem_multilevel(key)\n' +
+      '\x1B[0;32m-> 3458\x1B[0m indexer \x1B[38;5;241m=\x1B[39m \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mcolumns\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mget_loc\x1B[49m\x1B[43m(\x1B[49m\x1B[43mkey\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m   3459\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_integer(indexer):\n' +
+      '\x1B[1;32m   3460\x1B[0m     indexer \x1B[38;5;241m=\x1B[39m [indexer]\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/indexes/base.py:3363\x1B[0m, in \x1B[0;36mIndex.get_loc\x1B[0;34m(self, key, method, tolerance)\x1B[0m\n' +
+      '\x1B[1;32m   3361\x1B[0m         \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_engine\x1B[38;5;241m.\x1B[39mget_loc(casted_key)\n' +
+      '\x1B[1;32m   3362\x1B[0m     \x1B[38;5;28;01mexcept\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m err:\n' +
+      '\x1B[0;32m-> 3363\x1B[0m         \x1B[38;5;28;01mraise\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m(key) \x1B[38;5;28;01mfrom\x1B[39;00m \x1B[38;5;21;01merr\x1B[39;00m\n' +
+      '\x1B[1;32m   3365\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_scalar(key) \x1B[38;5;129;01mand\x1B[39;00m isna(key) \x1B[38;5;129;01mand\x1B[39;00m \x1B[38;5;129;01mnot\x1B[39;00m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mhasnans:\n' +
+      '\x1B[1;32m   3366\x1B[0m     \x1B[38;5;28;01mraise\x1B[39;00m \x1B[38;5;167;01mKeyError\x1B[39;00m(key)\n',
+    '\x1B[0;31mKeyError\x1B[0m: False'
+  ]
+}
+14:34:08.140 [info] Cell 4 completed in 0.052s (start: 1713378848087, end: 1713378848139)
+14:34:12.876 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:34:12.900 [info] Cell 4 completed in 0.017s (start: 1713378852883, end: 1713378852900)
+14:34:25.454 [info] Execution of code ms-toolsai.jupyter-9 completed in 18ms
+14:34:25.468 [info] Execution of code ms-toolsai.jupyter-10 completed in 9ms
+14:34:25.846 [info] Execution of code ms-toolsai.jupyter-11 completed in 9ms
+14:34:25.938 [info] Execution of code ms-toolsai.jupyter-12 completed in 11ms
+14:34:29.277 [info] Execution of code ms-toolsai.jupyter-13 completed in 22ms
+14:34:29.401 [info] Execution of code ms-toolsai.jupyter-14 completed in 20ms
+14:34:29.410 [info] Execution of code ms-toolsai.jupyter-15 completed in 6ms
+14:34:32.223 [info] Execution of code ms-toolsai.jupyter-16 completed in 10ms
+14:34:35.363 [info] Execution of code ms-toolsai.jupyter-17 completed in 10ms
+14:34:40.168 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:34:40.199 [warn] Cell completed with errors [hd [Error]: Item wrong length 1 instead of 652.
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'ValueError',
+  evalue: 'Item wrong length 1 instead of 652.',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mValueError\x1B[0m                                Traceback (most recent call last)',
+    '\x1B[0;32m/tmp/ipykernel_58841/3177074254.py\x1B[0m in \x1B[0;36m?\x1B[0;34m()\x1B[0m\n' +
+      '\x1B[0;32m----> 9\x1B[0;31m \x1B[0;32mimport\x1B[0m \x1B[0mpandas\x1B[0m \x1B[0;32mas\x1B[0m \x1B[0mpd\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m     10\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      "\x1B[1;32m     11\x1B[0m \x1B[0mcsv_file\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0;34mf'{results_filepath}/Results_4-17.csv'\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n" +
+      '\x1B[1;32m     12\x1B[0m \x1B[0mdf\x1B[0m \x1B[0;34m=\x1B[0m \x1B[0mpd\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mread_csv\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mcsv_file\x1B[0m\x1B[0;34m,\x1B[0m \x1B[0mlow_memory\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;32mFalse\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3445\x1B[0m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mwhere\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3446\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3447\x1B[0m         \x1B[0;31m# Do we have a (boolean) 1d indexer?\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3448\x1B[0m         \x1B[0;32mif\x1B[0m \x1B[0mcom\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mis_bool_indexer\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 3449\x1B[0;31m             \x1B[0;32mreturn\x1B[0m \x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0m_getitem_bool_array\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0m\x1B[1;32m   3450\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3451\x1B[0m         \x1B[0;31m# We are left with two options: a single key, and a collection of keys,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3452\x1B[0m         \x1B[0;31m# We interpret tuples as collections only for non-MultiIndex\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/core/frame.py\x1B[0m in \x1B[0;36m?\x1B[0;34m(self, key)\x1B[0m\n' +
+      '\x1B[1;32m   3492\x1B[0m                 \x1B[0mUserWarning\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3493\x1B[0m                 \x1B[0mstacklevel\x1B[0m\x1B[0;34m=\x1B[0m\x1B[0;36m3\x1B[0m\x1B[0;34m,\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3494\x1B[0m             )\n' +
+      '\x1B[1;32m   3495\x1B[0m         \x1B[0;32melif\x1B[0m \x1B[0mlen\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mkey\x1B[0m\x1B[0;34m)\x1B[0m \x1B[0;34m!=\x1B[0m \x1B[0mlen\x1B[0m\x1B[0;34m(\x1B[0m\x1B[0mself\x1B[0m\x1B[0;34m.\x1B[0m\x1B[0mindex\x1B[0m\x1B[0;34m)\x1B[0m\x1B[0;34m:\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[0;32m-> 3496\x1B[0;31m             raise ValueError(\n' +
+      '\x1B[0m\x1B[1;32m   3497\x1B[0m                 \x1B[0;34mf"Item wrong length {len(key)} instead of {len(self.index)}."\x1B[0m\x1B[0;34m\x1B[0m\x1B[0;34m\x1B[0m\x1B[0m\n' +
+      '\x1B[1;32m   3498\x1B[0m             )\n' +
+      '\x1B[1;32m   3499\x1B[0m \x1B[0;34m\x1B[0m\x1B[0m\n',
+    '\x1B[0;31mValueError\x1B[0m: Item wrong length 1 instead of 652.'
+  ]
+}
+14:34:40.199 [info] Cell 4 completed in 0.024s (start: 1713378880175, end: 1713378880199)
+14:34:53.282 [info] Execution of code ms-toolsai.jupyter-18 completed in 13ms
+14:34:55.170 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:34:55.196 [info] Cell 4 completed in 0.02s (start: 1713378895176, end: 1713378895196)
+14:34:57.021 [info] Execution of code ms-toolsai.jupyter-19 completed in 11ms
+14:35:00.319 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:35:00.344 [info] Cell 4 completed in 0.02s (start: 1713378900324, end: 1713378900344)
+14:35:03.870 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:35:03.898 [info] Cell 4 completed in 0.021s (start: 1713378903877, end: 1713378903898)
+14:37:11.998 [info] Execution of code ms-toolsai.jupyter-20 completed in 11ms
+14:37:12.442 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:37:12.470 [info] Cell 4 completed in 0.022s (start: 1713379032448, end: 1713379032470)
+14:38:35.306 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:38:35.708 [info] Cell 6 completed in 0.398s (start: 1713379115310, end: 1713379115708)
+14:38:49.695 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:38:49.710 [info] Cell 6 completed in 0.005s (start: 1713379129705, end: 1713379129710)
+14:38:56.953 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+14:38:57.147 [warn] Cell completed with errors [hd [Error]: no numeric data to plot
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'TypeError',
+  evalue: 'no numeric data to plot',
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mTypeError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[15], line 5\x1B[0m\n' +
+      '\x1B[1;32m      2\x1B[0m \x1B[38;5;28;01mimport\x1B[39;00m \x1B[38;5;21;01mnumpy\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m \x1B[38;5;21;01mnp\x1B[39;00m\n' +
+      "\x1B[1;32m      4\x1B[0m pivot_df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mpivot_table(index\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, columns\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, values\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m, aggfunc\x1B[38;5;241m=\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;124msum\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      "\x1B[0;32m----> 5\x1B[0m \x1B[43mpivot_df\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mplot\x1B[49m\x1B[43m(\x1B[49m\x1B[43mkind\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[38;5;124;43mbar\x1B[39;49m\x1B[38;5;124;43m'\x1B[39;49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mfigsize\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43m(\x1B[49m\x1B[38;5;241;43m10\x1B[39;49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[38;5;241;43m6\x1B[39;49m\x1B[43m)\x1B[49m\x1B[43m)\x1B[49m\n" +
+      "\x1B[1;32m      6\x1B[0m plt\x1B[38;5;241m.\x1B[39mtitle(\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mComparison of numRetry and numSent for each module\x1B[39m\x1B[38;5;124m'\x1B[39m)\n" +
+      "\x1B[1;32m      7\x1B[0m plt\x1B[38;5;241m.\x1B[39mxlabel(\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mModule\x1B[39m\x1B[38;5;124m'\x1B[39m)\n",
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/plotting/_core.py:972\x1B[0m, in \x1B[0;36mPlotAccessor.__call__\x1B[0;34m(self, *args, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m    969\x1B[0m             label_name \x1B[38;5;241m=\x1B[39m label_kw \x1B[38;5;129;01mor\x1B[39;00m data\x1B[38;5;241m.\x1B[39mcolumns\n' +
+      '\x1B[1;32m    970\x1B[0m             data\x1B[38;5;241m.\x1B[39mcolumns \x1B[38;5;241m=\x1B[39m label_name\n' +
+      '\x1B[0;32m--> 972\x1B[0m \x1B[38;5;28;01mreturn\x1B[39;00m \x1B[43mplot_backend\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mplot\x1B[49m\x1B[43m(\x1B[49m\x1B[43mdata\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[43mkind\x1B[49m\x1B[38;5;241;43m=\x1B[39;49m\x1B[43mkind\x1B[49m\x1B[43m,\x1B[49m\x1B[43m \x1B[49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[38;5;241;43m*\x1B[39;49m\x1B[43mkwargs\x1B[49m\x1B[43m)\x1B[49m\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/plotting/_matplotlib/__init__.py:71\x1B[0m, in \x1B[0;36mplot\x1B[0;34m(data, kind, **kwargs)\x1B[0m\n' +
+      '\x1B[1;32m     69\x1B[0m         kwargs[\x1B[38;5;124m"\x1B[39m\x1B[38;5;124max\x1B[39m\x1B[38;5;124m"\x1B[39m] \x1B[38;5;241m=\x1B[39m \x1B[38;5;28mgetattr\x1B[39m(ax, \x1B[38;5;124m"\x1B[39m\x1B[38;5;124mleft_ax\x1B[39m\x1B[38;5;124m"\x1B[39m, ax)\n' +
+      '\x1B[1;32m     70\x1B[0m plot_obj \x1B[38;5;241m=\x1B[39m PLOT_CLASSES[kind](data, \x1B[38;5;241m*\x1B[39m\x1B[38;5;241m*\x1B[39mkwargs)\n' +
+      '\x1B[0;32m---> 71\x1B[0m \x1B[43mplot_obj\x1B[49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43mgenerate\x1B[49m\x1B[43m(\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m     72\x1B[0m plot_obj\x1B[38;5;241m.\x1B[39mdraw()\n' +
+      '\x1B[1;32m     73\x1B[0m \x1B[38;5;28;01mreturn\x1B[39;00m plot_obj\x1B[38;5;241m.\x1B[39mresult\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/plotting/_matplotlib/core.py:286\x1B[0m, in \x1B[0;36mMPLPlot.generate\x1B[0;34m(self)\x1B[0m\n' +
+      '\x1B[1;32m    284\x1B[0m \x1B[38;5;28;01mdef\x1B[39;00m \x1B[38;5;21mgenerate\x1B[39m(\x1B[38;5;28mself\x1B[39m):\n' +
+      '\x1B[1;32m    285\x1B[0m     \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_args_adjust()\n' +
+      '\x1B[0;32m--> 286\x1B[0m     \x1B[38;5;28;43mself\x1B[39;49m\x1B[38;5;241;43m.\x1B[39;49m\x1B[43m_compute_plot_data\x1B[49m\x1B[43m(\x1B[49m\x1B[43m)\x1B[49m\n' +
+      '\x1B[1;32m    287\x1B[0m     \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_setup_subplots()\n' +
+      '\x1B[1;32m    288\x1B[0m     \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_make_plot()\n',
+    'File \x1B[0;32m~/.local/lib/python3.8/site-packages/pandas/plotting/_matplotlib/core.py:453\x1B[0m, in \x1B[0;36mMPLPlot._compute_plot_data\x1B[0;34m(self)\x1B[0m\n' +
+      '\x1B[1;32m    451\x1B[0m \x1B[38;5;66;03m# no non-numeric frames or series allowed\x1B[39;00m\n' +
+      '\x1B[1;32m    452\x1B[0m \x1B[38;5;28;01mif\x1B[39;00m is_empty:\n' +
+      '\x1B[0;32m--> 453\x1B[0m     \x1B[38;5;28;01mraise\x1B[39;00m \x1B[38;5;167;01mTypeError\x1B[39;00m(\x1B[38;5;124m"\x1B[39m\x1B[38;5;124mno numeric data to plot\x1B[39m\x1B[38;5;124m"\x1B[39m)\n' +
+      '\x1B[1;32m    455\x1B[0m \x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39mdata \x1B[38;5;241m=\x1B[39m numeric_data\x1B[38;5;241m.\x1B[39mapply(\x1B[38;5;28mself\x1B[39m\x1B[38;5;241m.\x1B[39m_convert_to_ndarray)\n',
+    '\x1B[0;31mTypeError\x1B[0m: no numeric data to plot'
+  ]
+}
+14:38:57.151 [info] Cell 6 completed in 0.182s (start: 1713379136965, end: 1713379137147)
+14:41:40.068 [info] Disposing HostJupyterExecution
+14:41:40.068 [info] Dispose Kernel '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' associated with '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+14:41:40.068 [info] Dispose Kernel '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' associated with '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+14:41:40.072 [info] Disposing HostJupyterExecution

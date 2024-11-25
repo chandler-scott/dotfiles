@@ -1,0 +1,21 @@
+2024-04-17 14:31:48.663 [info] (Client) Pylance async client (2024.4.1) started with python extension (2024.4.1)
+2024-04-17 14:31:49.069 [info] [Info  - 2:31:49 PM] (58764) Pylance language server 2024.4.1 (pyright version 1.1.356, commit 6652c4a8) starting
+2024-04-17 14:31:49.069 [info] [Info  - 2:31:49 PM] (58764) Server root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-17 14:31:49.069 [info] [Info  - 2:31:49 PM] (58764) Starting service instance "smart_farm_network_sim"
+2024-04-17 14:31:49.108 [info] [Info  - 2:31:49 PM] (58764) Setting pythonPath for service "smart_farm_network_sim": "/bin/python3"
+2024-04-17 14:31:49.108 [info] [Info  - 2:31:49 PM] (58764) Setting environmentName for service "smart_farm_network_sim": "3.8.10 (global)"
+2024-04-17 14:31:49.128 [info] [Info  - 2:31:49 PM] (58764) Assuming Python version 3.8.10.final.0
+2024-04-17 14:31:49.181 [info] [Info  - 2:31:49 PM] (58764) No source files found.
+2024-04-17 14:31:49.186 [info] [Info  - 2:31:49 PM] (58764) Starting service instance "smart_farm_network_sim"
+2024-04-17 14:31:49.202 [info] [Info  - 2:31:49 PM] (58764) Setting pythonPath for service "smart_farm_network_sim": "/opt/smart_farm_network_sim"
+2024-04-17 14:31:49.202 [info] [Info  - 2:31:49 PM] (58764) Setting environmentName for service "smart_farm_network_sim": "3.8.10 (global)"
+2024-04-17 14:31:49.229 [info] [Info  - 2:31:49 PM] (58764) No source files found.
+2024-04-17 14:31:49.527 [info] [Info  - 2:31:49 PM] (58764) Background analysis(1) root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-17 14:31:49.529 [info] [Info  - 2:31:49 PM] (58764) Background analysis(1) started
+2024-04-17 14:31:49.661 [info] [Info  - 2:31:49 PM] (58764) Background analysis(2) root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist
+2024-04-17 14:31:49.663 [info] [Info  - 2:31:49 PM] (58764) Background analysis(2) started
+2024-04-17 14:31:49.700 [info] [Info  - 2:31:49 PM] (58764) Indexer background runner(3) root directory: file:///home/chandler/.vscode/extensions/ms-python.vscode-pylance-2024.4.1/dist (index)
+2024-04-17 14:31:49.700 [info] [Info  - 2:31:49 PM] (58764) Indexing(3) started
+2024-04-17 14:31:49.930 [info] [Info  - 2:31:49 PM] (58764) scanned(3) 1 files over 1 exec env
+2024-04-17 14:31:50.700 [info] [Info  - 2:31:50 PM] (58764) indexed(3) 1 files over 1 exec env
+2024-04-17 14:31:50.743 [info] [Info  - 2:31:50 PM] (58764) Indexing finished(3).

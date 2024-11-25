@@ -1,0 +1,8 @@
+2024/09/16-01:45:06.605 147c4 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/09/16-01:45:06.605 147c4 Recovering log #389
+2024/09/16-01:45:06.605 147c4 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_www.office.com_0.indexeddb.leveldb/000389.log 
+2024/09/16-01:45:38.379 147b8 Level-0 table #394: started
+2024/09/16-01:45:38.392 147b8 Level-0 table #394: 2319285 bytes OK
+2024/09/16-01:45:38.394 147b8 Delete type=0 #389
+2024/09/16-02:55:53.771 147b8 Compacting 1@1 + 1@2 files
+2024/09/16-02:55:53.774 147b8 compacted to: files[ 0 1 1 0 0 0 0 ]

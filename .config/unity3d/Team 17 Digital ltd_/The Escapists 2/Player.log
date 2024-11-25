@@ -1,0 +1,1725 @@
+ERROR: ld.so: object '/home/chandler/.local/share/Steam/ubuntu12_32/gameoverlayrenderer.so' from LD_PRELOAD cannot be preloaded (wrong ELF class: ELFCLASS32): ignored.
+Setting breakpad minidump AppID = 641990
+Steam_SetMinidumpSteamID:  Caching Steam ID:  76561198064525901 [API loaded no]
+AK Error: Event ID not found: 2629562184
+c3a0f4141)
+GfxDevice: creating device client; threaded=1
+GLX Extensions: GLX_ARB_context_flush_control GLX_ARB_create_context GLX_ARB_create_context_no_error GLX_ARB_create_context_profile GLX_ARB_create_context_robustness GLX_ARB_fbconfig_float GLX_ARB_framebuffer_sRGB GLX_ARB_get_proc_address GLX_ARB_multisample GLX_EXT_buffer_age GLX_EXT_create_context_es2_profile GLX_EXT_create_context_es_profile GLX_EXT_fbconfig_packed_float GLX_EXT_framebuffer_sRGB GLX_EXT_no_config_context GLX_EXT_swap_control GLX_EXT_swap_control_tear GLX_EXT_texture_from_pixmap GLX_EXT_visual_info GLX_EXT_visual_rating GLX_INTEL_swap_event GLX_MESA_copy_sub_buffer GLX_MESA_query_renderer GLX_MESA_swap_control GLX_OML_swap_method GLX_OML_sync_control GLX_SGIS_multisample GLX_SGIX_fbconfig GLX_SGIX_pbuffer GLX_SGIX_visual_select_group GLX_SGI_make_current_read GLX_SGI_swap_control GLX_SGI_video_sync 
+Setting maxVSyncInterval to 4
+Renderer: AMD Radeon RX 580 Series (polaris10, LLVM 15.0.7, DRM 3.54, 6.5.0-35-generic)
+Vendor:   AMD
+Version:  4.6 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2
+GLES:     0
+ GL_AMD_conservative_depth GL_AMD_depth_clamp_separate GL_AMD_draw_buffers_blend GL_AMD_framebuffer_multisample_advanced GL_AMD_gpu_shader_int64 GL_AMD_multi_draw_indirect GL_AMD_performance_monitor GL_AMD_pinned_memory GL_AMD_query_buffer_object GL_AMD_seamless_cubemap_per_texture GL_AMD_shader_stencil_export GL_AMD_shader_trinary_minmax GL_AMD_texture_texture4 GL_AMD_vertex_shader_layer GL_AMD_vertex_shader_viewport_index GL_ANGLE_texture_compression_dxt3 GL_ANGLE_texture_compression_dxt5 GL_ARB_ES2_compatibility GL_ARB_ES3_1_compatibility GL_ARB_ES3_2_compatibility GL_ARB_ES3_compatibility GL_ARB_arrays_of_arrays GL_ARB_base_instance GL_ARB_bindless_texture GL_ARB_blend_func_extended GL_ARB_buffer_storage GL_ARB_clear_buffer_object GL_ARB_clear_texture GL_ARB_clip_control GL_ARB_color_buffer_float GL_ARB_compressed_texture_pixel_storage GL_ARB_compute_shader GL_ARB_compute_variable_group_size GL_ARB_conditional_render_inverted GL_ARB_conservative_depth GL_ARB_copy_buffer GL_ARB_copy_image GL_ARB_cull_dist
+ance GL_ARB_debug_output GL_ARB_depth_buffer_float GL_ARB_depth_clamp GL_ARB_derivative_control GL_ARB_direct_state_access GL_ARB_draw_buffers GL_ARB_draw_buffers_blend GL_ARB_draw_elements_base_vertex GL_ARB_draw_indirect GL_ARB_draw_instanced GL_ARB_enhanced_layouts GL_ARB_explicit_attrib_location GL_ARB_explicit_uniform_location GL_ARB_fragment_coord_conventions GL_ARB_fragment_layer_viewport GL_ARB_fragment_shader GL_ARB_framebuffer_no_attachments GL_ARB_framebuffer_object GL_ARB_framebuffer_sRGB GL_ARB_get_program_binary GL_ARB_get_texture_sub_image GL_ARB_gl_spirv GL_ARB_gpu_shader5 GL_ARB_gpu_shader_fp64 GL_ARB_gpu_shader_int64 GL_ARB_half_float_pixel GL_ARB_half_float_vertex GL_ARB_indirect_parameters GL_ARB_instanced_arrays GL_ARB_internalformat_query GL_ARB_internalformat_query2 GL_ARB_invalidate_subdata GL_ARB_map_buffer_alignment GL_ARB_map_buffer_range GL_ARB_multi_bind GL_ARB_multi_draw_indirect GL_ARB_occlusion_query2 GL_ARB_parallel_shader_compile GL_ARB_pipeline_statistics_query GL_ARB_pixel
+_buffer_object GL_ARB_point_sprite GL_ARB_polygon_offset_clamp GL_ARB_program_interface_query GL_ARB_provoking_vertex GL_ARB_query_buffer_object GL_ARB_robust_buffer_access_behavior GL_ARB_robustness GL_ARB_sample_shading GL_ARB_sampler_objects GL_ARB_seamless_cube_map GL_ARB_seamless_cubemap_per_texture GL_ARB_separate_shader_objects GL_ARB_shader_atomic_counter_ops GL_ARB_shader_atomic_counters GL_ARB_shader_ballot GL_ARB_shader_bit_encoding GL_ARB_shader_clock GL_ARB_shader_draw_parameters GL_ARB_shader_group_vote GL_ARB_shader_image_load_store GL_ARB_shader_image_size GL_ARB_shader_objects GL_ARB_shader_precision GL_ARB_shader_stencil_export GL_ARB_shader_storage_buffer_object GL_ARB_shader_subroutine GL_ARB_shader_texture_image_samples GL_ARB_shader_texture_lod GL_ARB_shader_viewport_layer_array GL_ARB_shading_language_420pack GL_ARB_shading_language_include GL_ARB_shading_language_packing GL_ARB_spirv_extensions GL_ARB_stencil_texturing GL_ARB_sync GL_ARB_tessellation_shader GL_ARB_texture_barrier GL_A
+RB_texture_buffer_object GL_ARB_texture_buffer_object_rgb32 GL_ARB_texture_buffer_range GL_ARB_texture_compression_bptc GL_ARB_texture_compression_rgtc GL_ARB_texture_cube_map_array GL_ARB_texture_filter_anisotropic GL_ARB_texture_float GL_ARB_texture_gather GL_ARB_texture_mirror_clamp_to_edge GL_ARB_texture_multisample GL_ARB_texture_non_power_of_two GL_ARB_texture_query_levels GL_ARB_texture_query_lod GL_ARB_texture_rectangle GL_ARB_texture_rg GL_ARB_texture_rgb10_a2ui GL_ARB_texture_stencil8 GL_ARB_texture_storage GL_ARB_texture_storage_multisample GL_ARB_texture_swizzle GL_ARB_texture_view GL_ARB_timer_query GL_ARB_transform_feedback2 GL_ARB_transform_feedback3 GL_ARB_transform_feedback_instanced GL_ARB_transform_feedback_overflow_query GL_ARB_uniform_buffer_object GL_ARB_vertex_array_bgra GL_ARB_vertex_array_object GL_ARB_vertex_attrib_64bit GL_ARB_vertex_attrib_binding GL_ARB_vertex_buffer_object GL_ARB_vertex_shader GL_ARB_vertex_type_10f_11f_11f_rev GL_ARB_vertex_type_2_10_10_10_rev GL_ARB_viewport_a
+rray GL_ATI_blend_equation_separate GL_ATI_meminfo GL_ATI_texture_float GL_ATI_texture_mirror_once GL_EXT_EGL_image_storage GL_EXT_EGL_sync GL_EXT_abgr GL_EXT_blend_equation_separate GL_EXT_debug_label GL_EXT_demote_to_helper_invocation GL_EXT_depth_bounds_test GL_EXT_draw_buffers2 GL_EXT_draw_instanced GL_EXT_framebuffer_blit GL_EXT_framebuffer_multisample GL_EXT_framebuffer_multisample_blit_scaled GL_EXT_framebuffer_object GL_EXT_framebuffer_sRGB GL_EXT_memory_object GL_EXT_memory_object_fd GL_EXT_packed_depth_stencil GL_EXT_packed_float GL_EXT_pixel_buffer_object GL_EXT_polygon_offset_clamp GL_EXT_provoking_vertex GL_EXT_semaphore GL_EXT_semaphore_fd GL_EXT_shader_image_load_formatted GL_EXT_shader_image_load_store GL_EXT_shader_integer_mix GL_EXT_shader_samples_identical GL_EXT_texture_array GL_EXT_texture_compression_dxt1 GL_EXT_texture_compression_rgtc GL_EXT_texture_compression_s3tc GL_EXT_texture_filter_anisotropic GL_EXT_texture_integer GL_EXT_texture_mirror_clamp GL_EXT_texture_sRGB GL_EXT_texture_
+sRGB_R8 GL_EXT_texture_sRGB_decode GL_EXT_texture_shadow_lod GL_EXT_texture_shared_exponent GL_EXT_texture_snorm GL_EXT_texture_swizzle GL_EXT_timer_query GL_EXT_transform_feedback GL_EXT_vertex_array_bgra GL_EXT_vertex_attrib_64bit GL_EXT_window_rectangles GL_IBM_multimode_draw_arrays GL_INTEL_blackhole_render GL_KHR_blend_equation_advanced GL_KHR_context_flush_control GL_KHR_debug GL_KHR_no_error GL_KHR_parallel_shader_compile GL_KHR_robust_buffer_access_behavior GL_KHR_robustness GL_KHR_texture_compression_astc_ldr GL_KHR_texture_compression_astc_sliced_3d GL_MESA_framebuffer_flip_y GL_MESA_pack_invert GL_MESA_shader_integer_functions GL_MESA_texture_signed_rgba GL_NVX_gpu_memory_info GL_NV_alpha_to_coverage_dither_control GL_NV_compute_shader_derivatives GL_NV_conditional_render GL_NV_copy_image GL_NV_depth_clamp GL_NV_packed_depth_stencil GL_NV_shader_atomic_int64 GL_NV_texture_barrier GL_NV_vdpau_interop GL_OES_EGL_image GL_S3_s3tc
+OPENGL LOG: Creating OpenGL 4.6 graphics device ; Context level  <OpenGL 4.5> ; Context handle 51526368
+Begin MonoManager ReloadAssembly
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Assembly-CSharp-firstpass.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Assembly-CSharp-firstpass.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Assembly-CSharp.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Assembly-CSharp.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.UI.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.UI.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.Networking.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.Networking.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.PlaymodeTestsRunner.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/UnityEngine.PlaymodeTestsRunner.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.ClipperLib.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.ClipperLib.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.Ionic.Zip.Reduced.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.JsonFx.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.JsonFx.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.Poly2Tri.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Pathfinding.Poly2Tri.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/SampleClassLibrary.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/SampleClassLibrary.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Rewired_Core.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Rewired_Core.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Rewired_Linux_Lib.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Rewired_Linux_Lib.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/TileSystem.Runtime.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/TileSystem.Runtime.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/BadWordFilter.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/BadWordFilter.dll into Unity Child Domain
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Photon3Unity3D.dll (this message is harmless)
+Loading /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/Photon3Unity3D.dll into Unity Child Domain
+- Completed reload, in  0.043 seconds
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/System.Core.dll (this message is harmless)
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/System.dll (this message is harmless)
+Default vsync count 2
+requesting resize -1 x -1
+Using native desktop resolution 3840 x 1080
+requesting fullscreen 3840 x 1080 at 0 Hz
+Desktop is 3840 x 1080 @ 60 Hz
+Using libudev for joystick management
+
+
+Importing game controller configs
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/System.Xml.dll (this message is harmless)
+UnloadTime: 1.259000 ms
+WwiseUnity: Initialize sound engine ...
+WwiseUnity: Sound engine initialized.
+Changing real window size to 1850 x 1043
+Changing real window size to 1850 x 1043
+Changing real window size to 1920 x 1080
+ASSET MANAGER: loading bundle global
+ASSET MANAGER: loading bundle fonts.dynamic
+Setting up 4 worker threads for Enlighten.
+  Thread -> id: 722252ffd640 -> priority: 1 
+  Thread -> id: 722250ffe640 -> priority: 1 
+  Thread -> id: 722223fff640 -> priority: 1 
+  Thread -> id: 7222237fe640 -> priority: 1 
+The referenced script on this Behaviour (Game Object 'Managers') is missing!
+ 
+(Filename:  Line: 1754)
+
+Unloading 4 Unused Serialized files (Serialized files now loaded: 3)
+UnloadTime: 4.372000 ms
+ASSET MANAGER: creating duplicate instance. Deleting myself
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+===== Graphics Device Info ======
+poseidon
+PC
+72d91fd3854d4c82aaa9b524e178e9f2
+AMD Radeon RX 580 Series (polaris10, LLVM 15.0.7, DRM 3.54, 6.5.0-35-generic)
+AMD
+26591
+Device Version: OpenGL 4.6 (Core Profile) Mesa 23.2.1-1ubuntu3.1~22.04.2
+Memory Size:7257
+Multithreaded Enabled: True
+Shader Model Version: 50
+Max Texture Size:16384
+Supports Image Effects:True
+===== Graphics Device Info End ======
+ +++++   MAINLINE   +++++++  
+The referenced script on this Behaviour (Game Object 'PersistentScripts') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object '<null>') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'PersistentScripts') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'PersistentScripts') is missing!
+ 
+(Filename:  Line: 1754)
+
+Bootstrap.ProcessCommandLine - Processing command line "/home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2.x86_64"
+ *1* command line /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2.x86_64
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+**DART** GLOBALSTART_MODE INIT
+  ************  STEAM PLATFORM - Awake *******  
+  ************  Platform       Awake *******  
+  *********  your dad   dfgdfgdfg   
+ASSET MANAGER: loading bundle rewiredinputsettings
+**DART** GLOBALSTART_MODE START_LOAD_REWIRED
+GoogleAnalyticsV3,Start: Google Analytics Auto Instrumentation Game Launch
+GoogleAnalyticsV3:Initializing Google Analytics 0.1.
+GoogleAnalyticsV3:Initializing Google Analytics -- Ver = DesktopCrossplay.28.666175
+GoogleAnalyticsV3.Awake: Starting ExceptionReporting.
+
+Unloading 81 unused Assets to reduce memory usage. Loaded Objects now: 14328.
+Total: 27.171999 ms (FindLiveObjects: 0.657000 ms CreateObjectMapping: 0.353000 ms MarkObjects: 25.452999 ms  DeleteObjects: 0.709000 ms)
+
+**DART** GLOBALSTART_MODE WAIT_FOR_LOAD_REWIRED
+STEAM ACHIEVEMENTS: OnUserStatsReceived result=k_EResultOK
+Non platform assembly: data-0x6808120 (this message is harmless)
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/data-0x6808120.so
+Non platform assembly: data-0x6821f80 (this message is harmless)
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/data-0x6821f80.so
+Non platform assembly: data-0x6845280 (this message is harmless)
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/data-0x6845280.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/./libudev.so
+Fallback handler could not load library /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Mono/x86_64/libudev.so
+ASSET MANAGER: loading bundle boot
+**DART** GLOBALSTART_MODE START_LOAD_BOOT
+**DART** GLOBALSTART_MODE WAIT_FOR_LOAD_BOOT
+BootFlowMode = INIT
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE SHOW_BOOT
+Can't execute Disconnect() while not connected. Nothing changed. State: PeerCreated
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ *************    OnMasterClientSwitched   *******************   
+OnMasterClientSwitched: Master client is ID 1 local: True 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = SHOW_LEGAL_PANEL
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+requesting resize 1920 x 1080
+Using native desktop resolution 3840 x 1080
+Clamping fullscreen resolution to 1920 x 1080
+requesting fullscreen 1920 x 1080 at 60 Hz
+Desktop is 3840 x 1080 @ 60 Hz
+ASSET MANAGER: loading bundle loading
+ASSET MANAGER: loading bundle frontend
+BootFlowMode = WF_LEGAL_PANEL
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ASSET MANAGER: loading bundle frontendeditor
+Changing real window size to 1920 x 1080
+BootFlowMode = SHOW_UNITY_PANEL
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = SHOW_AUTOSAVE_PANEL
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = WF_AUTOSAVE_PANEL
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = SHOW_LOGO_VIDEO
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = SHOW_BOOT_SCREEN
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = WAIT_FOR_BOOT_SCREEN
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = SHOW_START
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = WAIT_FOR_CURTAIN_RAISE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** Start
+********  CheckAndExecStartUpCommand   ***** 
+BootFlowMode = WAIT_FOR_START
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = POST_SIGNIN
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = WAIT_FOR_SLIDEOFF
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = POST_START
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = LOADING_GLOBAL_SAVEDATA
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = LOADING_SAVEMANAGER_DATA
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BootFlowMode = WF_LOAD_OR_NEWSAVE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+BENCHMARK: 0.3342085s - 30fps.
+requesting resize 1920 x 1080
+Using native desktop resolution 3840 x 1080
+Clamping fullscreen resolution to 1920 x 1080
+requesting fullscreen 1920 x 1080 at 0 Hz
+Desktop is 3840 x 1080 @ 60 Hz
+**DART** GLOBALSTART_MODE KILL_BOOT
+BootFlowMode = DONE
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+  ******  DeleteBootScene  ***
+**DART** GLOBALSTART_MODE WAIT_FOR_KILL_BOOT
+ASSET MANAGER: unloading bundle boot all assets = True
+  ******  DeleteBootScene  ** 1 *
+Unloading 3 Unused Serialized files (Serialized files now loaded: 11)
+
+Unloading 29 unused Assets to reduce memory usage. Loaded Objects now: 52538.
+Total: 61.218998 ms (FindLiveObjects: 3.339000 ms CreateObjectMapping: 0.734000 ms MarkObjects: 55.403000 ms  DeleteObjects: 1.742000 ms)
+
+  ******  DeleteBootScene  ** 2 *
+**DART** GLOBALSTART_MODE WAIT_FOR_LOAD_FRONTEND
+**DART** GLOBALSTART_MODE CHECK_INVITES
+**DART** OnSelect CampaignButton
+**DART** Menu 
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+Ignoring dlc RobinsonUpdate due to save reasons
+Ignoring dlc UnlockUpdate due to save reasons
+Showing DLC popup DLC06
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+**DART** GLOBALSTART_MODE SHOW_FRONTEND
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+Showing DLC popup DLC05
+**DART** Menu GIVE ME A TITLE!
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+T17PhotonNetworking: Initialising photon connection TimePingInterval: 1000
+PHOTON: connecting to ns.exitgames.com:5058
+Platform assembly: /home/chandler/.local/share/Steam/steamapps/common/The Escapists 2/TheEscapists2_Data/Managed/System.Configuration.dll (this message is harmless)
+**DART** OnSelect OKButton
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+Showing DLC popup DLC04
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+We have already seen dlc DLC04
+Showing DLC popup DLC03
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+BestRegion checks region: 'eu' 	156ms 	79.133.126.228:5055
+BestRegion checks region: 'us' 	67ms 	45.67.211.164:5055
+BestRegion checks region: 'asia' 	276ms 	91.243.81.149:5055
+BestRegion checks region: 'rue' 	199ms 	216.120.180.31:5055
+Found best region: us ping: 67. Calling ConnectToRegionMaster() is: True
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+We have already seen dlc DLC04
+We have already seen dlc DLC03
+Showing DLC popup DLC02
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+We have already seen dlc DLC04
+We have already seen dlc DLC03
+We have already seen dlc DLC02
+Showing DLC popup DLC1
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+We have already seen dlc DLC04
+We have already seen dlc DLC03
+We have already seen dlc DLC02
+We have already seen dlc DLC1
+Ignoring dlc SeasonPass because its not available on our platform
+Showing DLC popup SeasonPass
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+Processing 11 potential dlc popups
+Ignoring dlc EscapistsSwitch because its not available on our platform
+We have already seen dlc RobinsonUpdate
+We have already seen dlc UnlockUpdate
+We have already seen dlc DLC06
+We have already seen dlc DLC05
+We have already seen dlc DLC04
+We have already seen dlc DLC03
+We have already seen dlc DLC02
+We have already seen dlc DLC1
+Ignoring dlc SeasonPass because its not available on our platform
+We have already seen dlc SeasonPass
+**DART** OnSelect CampaignButton
+**DART** Menu Text.Menu.Campaign
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+**DART** OnSelect BrowseGamesButton
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+**DART** Menu Text.Menu.BrowseGames
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+**DART** Menu Text.Menu.Campaign
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+**DART** OnSelect PrisonArrowRight
+**DART** OnSelect PrisonArrowRight
+**DART** OnSelect PrisonArrowLeft
+**DART** OnSelect PrisonArrowLeft
+**DART** OnSelect PrisonArrowRight
+**DART** OnSelect PrisonArrowRight
+**DART** OnSelect PrisonArrowLeft
+**DART** OnSelect PrisonArrowLeft
+**DART** OnSelect PrisonArrowRight
+**DART** OnSelect NewGameButton
+**DART** Menu Text.Menu.LoadSaveDialog
+**DART** OnSelect LoadSaveSlot
+     RequestSaveSpaceDeleteResultThenStartGame   IOSuccessful
+**DART** Menu Text.Menu.PrisonSetup
+**DART** Menu GIVE ME A TITLE!
+**DART** OnSelect OKButton
+**DART** OnSelect RandomiseButton
+**DART** OnSelect RandomiseButton
+**DART** OnSelect RandomiseButton
+**DART** OnSelect RandomiseButton
+**DART** OnSelect RandomiseButton
+**DART** Menu Text.Menu.Campaign
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+**DART** OnSelect NewGameButton
+**DART** Menu Text.Menu.LoadSaveDialog
+**DART** OnSelect LoadSaveSlot
+     RequestSaveSpaceDeleteResultThenStartGame   IOSuccessful
+**DART** Menu Text.Menu.PrisonSetup
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+ *****  
+**DART** OnSelect StartGameButton
+Can't execute Disconnect() while not connected. Nothing changed. State: PeerCreated
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ *************    OnMasterClientSwitched   *******************   
+OnMasterClientSwitched: Master client is ID 1 local: True 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE START_LEVEL_LOAD
+T17PhotonNetworking: Setting TimePingInterval to 10000ms
+ *************    OnMasterClientSwitched   *******************   
+OnMasterClientSwitched: Master client is ID 1 local: True 
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE LOADING_FLOW_DUMMY_STATE
+**DART** GLOBALSTART_MODE KILL_FRONTEND
+**DART** GLOBALSTART_MODE KILL_FRONTEND
+**DART** GLOBALSTART_MODE WAIT_FOR_KILL_FRONTEND
+ASSET MANAGER: unloading bundle frontend all assets = True
+ASSET MANAGER: unloading bundle frontendeditor all assets = True
+Unloading 1 Unused Serialized files (Serialized files now loaded: 7)
+
+Unloading 83 unused Assets to reduce memory usage. Loaded Objects now: 19227.
+Total: 37.798000 ms (FindLiveObjects: 1.315000 ms CreateObjectMapping: 0.313000 ms MarkObjects: 36.001999 ms  DeleteObjects: 0.168000 ms)
+
+**DART** GLOBALSTART_MODE LOADING_LEVEL
+ASSET MANAGER: loading bundle aibehaviours
+**DART** GLOBALSTART_MODE WAIT_FOR_LOADING_LEVEL
+ASSET MANAGER: loading bundle objectivefiles
+ASSET MANAGER: loading bundle centre_perks
+The referenced script on this Behaviour is missing!
+ 
+(Filename:  Line: 1526)
+
+The referenced script on this Behaviour (Game Object 'Cameras') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Audio_Reverb_Trigger') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Progroups2_Groups_Container_Object') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Audio_Reverb_Trigger') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Audio_Reverb_Tirgger') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'WwiseGlobal') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'WwiseGlobal') is missing!
+ 
+(Filename:  Line: 1754)
+
+The referenced script on this Behaviour (Game Object 'Audio_Reverb_Trigger') is missing!
+ 
+(Filename:  Line: 1754)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+<b>Graph:</b> Graph is already Active.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE LOADING_OTHER_INGAME_SCENES_HUD
+ ***** Start Loading  HUD Menu Scene
+ASSET MANAGER: loading bundle hud
+Loading HUD Menu Scene
+**DART** GLOBALSTART_MODE WAIT_FOR_OTHER_SCENES_HUD
+Loaded HUD Menu Scene
+ ****  HUDMenuFlow   Start  78.58575
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ ****  HUDMenuFlow   Start  Bottom 78.62099
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ ***** Start Loading  Ingame Scene
+ASSET MANAGER: loading bundle ingamemenus
+**DART** GLOBALSTART_MODE WAIT_FOR_OTHER_SCENES_IGM
+The referenced script on this Behaviour (Game Object 'Resolution') is missing!
+ 
+(Filename:  Line: 1754)
+
+ ****   MADNESS OF Pre Made behaviours list  78.87962
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE SETUP_AREA_MANAGERS
+**DART** GLOBALSTART_MODE WAIT_FOR_OTHER_SCENES_PART2
+**DART** GLOBALSTART_MODE SETUP_ITEM_MANAGER
+ ++++ SpecialInit    m_PreBuildItemCreatePool 
+ ++++ SpecialInit    m_PreBuildItemCreatePool 
+ ++++ SpecialInit    m_PreBuildItemCreatePool 
+ ++++ SpecialInit    m_PreBuildItemCreatePool 
+**DART** GLOBALSTART_MODE WAIT_FOR_OTHER_SCENES_PART3
+ **** behaviours nets = 148  monos =  31707
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ **** Time Add Classes Done 79.84332
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE WAIT_FOR_OTHER_SCENES_WAITFORPLAYERS
+**DART** GLOBALSTART_MODE WAIT_FOR_CUSTOMISATION
+**DART** GLOBALSTART_MODE LOAD_CUSTOMISATION
+**DART** GLOBALSTART_MODE WAIT_FOR_INIT_LEVEL_ITEMS
+ ********   Guard Tower Manager StartInit    ***
+ ********   Guard Tower Manager StartInit    ***  9
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+    Guard Tower StartInit
+    Guard Tower StartInit aa 1
+ ********   Guard Tower Manager StartInit    ***
+ ********   Guard Tower Manager StartInit    ***  9
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+    Guard Tower StartInit
+ ********   Guard Tower Manager StartInit    ***
+ ********   Guard Tower Manager StartInit    ***  9
+ ********   Guard Tower Manager StartInit  actually   inited  ***  
+**DART** GLOBALSTART_MODE WAIT_FOR_INIT_LEVEL_ITEMS_WAITFORPLAYERS
+**DART** GLOBALSTART_MODE REQUEST_PLAYER_STARTING_ITEMS
+Cannot send op: 248 Not connected. PeerState: Disconnected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE WAIT_FOR_PLAYER_STARTING_ITEMS
+**DART** GLOBALSTART_MODE WAIT_FOR_PLAYER_STARTING_ITEMS_WAITFORPLAYERS
+**DART** GLOBALSTART_MODE SPAWN_LEVEL_PLAYER_OBJECTS
+ ............................... Gamers ..............
+G3 : ViewID:-1 PPID:1 GamerName:your dad Controller:0 Location:LOCAL Primary:True Active:True
+ ............................... Gamers ..............
+**DART** GLOBALSTART_MODE SPAWN_LEVEL_PLAYER_OBJECTS_WAITFORPLAYERS
+**DART** GLOBALSTART_MODE NETWORK_INIT_MANAGERS
+**DART** GLOBALSTART_MODE INIT_MANAGERS
+[Culling] CreateBuckets
+[Culler] CreateBuckets took 0.0283432 seconds
+**DART** IN_LEVEL
+**DART** GLOBALSTART_MODE WAIT_FOR_PROFANITY_FILTER
+Using default layout group.  Aspect=1.777778   group=0
+TransferOwnership() view 2974 to: 1 Time: 724
+**DART** GLOBALSTART_MODE WAIT_FOR_PLAYERS
+**DART** GLOBALSTART_MODE CHECK_INVITES_DURING_LOAD
+**DART** GLOBALSTART_MODE IN_LEVEL
+OnRoutineChangeEnd Routine: LightsOut
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.LightsOut
+Path Failed : Computation Time 0.00 ms Searched Nodes 0
+Error: 
+Path Number 1 (unique id)
+**DART** OnSelect PlayerSelectSlot(Clone)
+**DART** OnSelect PlayerSelectSlot(Clone)
+**DART** OnSelect PlayerSelectSlot(Clone)
+**DART** OnSelect PlayerSelectSlot(Clone)
+**DART** OnSelect PlayerSelectSlot(Clone)
+LoopingDragScroll OnEndDrag Called
+**DART** OnSelect PlayerSelectSlot(Clone)
+LoopingDragScroll OnEndDrag Called
+LoopingDragScroll OnEndDrag Called
+**DART** OnSelect PlayerSelectSlot(Clone)
+LoopingDragScroll OnEndDrag Called
+**DART** OnSelect PlayerSelectSlot(Clone)
+LoopingDragScroll OnEndDrag Called
+**DART** OnSelect PlayerSelectSlot(Clone)
+LoopingDragScroll OnEndDrag Called
+**DART** OnSelect PlayerSelectSlot(Clone)
+I want to play intro cutscene
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (1)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (Replace with camera)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (Replace with camera) 3
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_CameraMan
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Player_Actor
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_FilmCrew2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (Replace with camera) 2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_FilmCrew1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (2)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Warden
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** OnSelect InventoryItem (5)
+**DART** OnSelect ClickOffButton
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: RollCall
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.RollCall
+STEAM ACHIEVEMENTS: OnAchievementStored 
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: MealTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.Breakfast
+  ******    OpenPauseMenu 
+**DART** OnSelect SettingsButton
+**DART** Menu Text.Menu.Settings
+**DART** OnSelect ControlsRemapEntry(Clone)
+**DART** OnSelect ControlsRemapEntry(Clone)
+**DART** OnSelect QuitButton
+  ******    HidePauseMenu 
+**DART** OnSelect EquippedOutfit
+**DART** OnSelect EquippedOutfit
+**DART** OnSelect ClickOffButton
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: FreeTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.FreeTime
+**DART** OnSelect ClickOffButton
+**DART** OnSelect ClickOffButton
+**DART** OnSelect Button
+**DART** OnSelect Button (1)
+**DART** OnSelect Button (2)
+**DART** OnSelect Button (2)
+**DART** OnSelect ChippingButton
+**DART** OnSelect Accept
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+**DART** OnSelect InventoryItem_HUD_0
+**DART** OnSelect InventoryItem_HUD_1
+**DART** OnSelect InventoryItem_HUD_2
+**DART** OnSelect InventoryItem_HUD_3
+**DART** OnSelect InventoryItem_HUD_4
+**DART** OnSelect InventoryItem_HUD_Current
+**DART** OnSelect ClickOffButton
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+**DART** OnSelect Accept
+**DART** OnSelect Accept
+**DART** OnSelect InventoryItem (4)
+**DART** OnSelect InventoryItem (4)
+**DART** OnSelect InventoryItem_HUD_0
+**DART** OnSelect InventoryItem_HUD_Current
+**DART** OnSelect InventoryItem (6)
+**DART** OnSelect InventoryItem
+**DART** OnSelect InventoryItem (1)
+**DART** OnSelect InventoryItem (2)
+**DART** OnSelect InventoryItem (2)
+**DART** OnSelect InventoryItem (2)
+**DART** OnSelect InventoryItem (1)
+**DART** OnSelect InventoryItem (1)
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: MealTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.LunchTime
+**DART** OnSelect InventoryItem_HUD_4
+**DART** OnSelect Button
+**DART** OnSelect Button (1)
+**DART** OnSelect Button (1)
+**DART** OnSelect Button (2)
+**DART** OnSelect Button (1)
+**DART** OnSelect RecipeItem (21)
+**DART** OnSelect CraftButton
+STEAM ACHIEVEMENTS: OnAchievementStored 
+**DART** OnSelect Button (2)
+**DART** OnSelect Button (3)
+**DART** OnSelect Button (4)
+**DART** OnSelect Button
+**DART** OnSelect Button
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: JobTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.Job
+**DART** OnSelect InventoryItem_HUD_Current
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Shops icon Shops (UnityEngine.GameObject) parent ShopLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent PlayerLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Objectives icon Objectives (UnityEngine.GameObject) parent ObjectiveLayerObject
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Shops icon Shops (UnityEngine.GameObject) parent ShopLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject Characters icon Characters (UnityEngine.GameObject) parent CharacterLayerObject
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+GetIconObject All icon All (UnityEngine.GameObject) parent Icons
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect T17Button
+**DART** OnSelect Accept
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: Exercise
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.Exercise
+**DART** OnSelect InventoryItem (6)
+**DART** OnSelect InventoryItem (9)
+**DART** OnSelect InventoryItem (9)
+**DART** OnSelect InventoryItem (11)
+**DART** OnSelect EquippedHand
+****  PlayerCardio  42
+****  PlayerCardio  44
+****  PlayerCardio  46
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: ShowerTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.Shower
+****  PlayerCardio  48
+  ******    OpenPauseMenu 
+**DART** OnSelect ResumeButton
+  ******    HidePauseMenu 
+**DART** OnSelect InventoryItem (4)
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: MealTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.Dinner
+**DART** OnSelect InventoryItem (5)
+**DART** OnSelect InventoryItem (5)
+**DART** OnSelect InventoryItem_HUD_EQUIPED
+**DART** OnSelect InventoryItem (5)
+**DART** OnSelect InventoryItem (11)
+**DART** OnSelect InventoryItem_HUD (2)
+**DART** OnSelect InventoryItem (6)
+**DART** OnSelect InventoryItem (1)
+**DART** OnSelect EquippedHand
+**DART** OnSelect Button
+**DART** OnSelect Button (1)
+**DART** OnSelect Button (2)
+**DART** OnSelect Button (1)
+**DART** OnSelect RecipeItem (9)
+**DART** OnSelect RecipeItem (9)
+  ****** FindRecipe FindRecipe FindRecipe
+**DART** OnSelect RecipeItem (39)
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+OnRoutineChangeEnd Routine: FreeTime
+ ++++++  m_CurrentRoutine  set to rountine HUD.Routine.FreeTime
+**DART** OnSelect InventoryItem_HUD_Current
+**DART** OnSelect InventoryItem_HUD_0
+**DART** OnSelect InventoryItem_HUD_1
+**DART** OnSelect InventoryItem_HUD_2
+**DART** OnSelect InventoryItem_HUD_3
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+**DART** OnSelect Accept
+**DART** OnSelect InventoryItem_HUD_Current
+**DART** OnSelect InventoryItem_HUD_0
+**DART** OnSelect InventoryItem_HUD_1
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******  after quest index SaveHelpers.BitField
+ *******  before quest index SaveHelpers.BitField
+ *******             quest index 0
+ *******  after quest index SaveHelpers.BitField
+---Asked to save the game - Centre_Perks
+STEAM ACHIEVEMENTS: OnAchievementStored 
+CharacterAnimator.Start: Failed to find NetView : Cutscene_CameraMan
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_FilmCrew1
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Player_Actor
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_FilmCrew2
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+CharacterAnimator.Start: Failed to find NetView : Cutscene_Guard (1)
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+**DART** GLOBALSTART_MODE LOAD_RESULTS
+Cannot send op: 248 Not connected. PeerState: Disconnected
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+ASSET MANAGER: loading bundle roundresults
+**DART** GLOBALSTART_MODE WAIT_FOR_LOAD_RESULTS
+**DART** GLOBALSTART_MODE END_LEVEL_BEHIND_RESULTS
+**DART** Menu Results Normal
+**DART** OnSelect ContinueButton
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+**DART** GLOBALSTART_MODE LOADING_FLOW_DUMMY_STATE
+T17PhotonNetworking: Setting TimePingInterval to 1000ms
+T17PhotonNetworking: Initialising photon connection TimePingInterval: 1000
+Best region found in PlayerPrefs. Connecting to: us
+PHOTON: connecting to ns.exitgames.com:5058
+     +++++++++++++   Out call  to    DeleteLevelScene 
+**DART** GLOBALSTART_MODE WAIT_FOR_END_LEVEL
+ASSET MANAGER: unloading bundle roundresults all assets = True
+ASSET MANAGER: unloading bundle ingamemenus all assets = True
+ASSET MANAGER: unloading bundle hud all assets = True
+     +++++++++++++   DeleteLevelScene  
+Cleaning up static batch objects
+  ** UNLOADING SCENE   Centre_Perks
+Cleaning up static batch objects
+ *****  
+ *****  
+ *****  
+RPCs can only be sent in rooms. Call of "RPC_RequestStopInteraction" gets executed locally only, if at all.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPCs can only be sent in rooms. Call of "RPC_RequestStopInteraction" gets executed locally only, if at all.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPCs can only be sent in rooms. Call of "RPC_RequestStopInteraction" gets executed locally only, if at all.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPCs can only be sent in rooms. Call of "RPC_All_SetRemoteInteractingCharacter" gets executed locally only, if at all.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+RPCs can only be sent in rooms. Call of "RPC_All_SetRemoteInteractingCharacter" gets executed locally only, if at all.
+ 
+(Filename: /home/builduser/buildslave/unity/build/artifacts/generated/common/runtime/DebugBindings.gen.cpp Line: 51)
+
+ASSET MANAGER: unloading bundle centre_perks all assets = True
+ASSET MANAGER: unloading bundle aibehaviours all assets = True
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+Unloading 3 Unused Serialized files (Serialized files now loaded: 8)
+**DART** GLOBALSTART_MODE WAIT_FOR_END_LEVEL_GC
+
+Unloading 25140 unused Assets to reduce memory usage. Loaded Objects now: 19376.
+Total: 216.832001 ms (FindLiveObjects: 2.177000 ms CreateObjectMapping: 1.130000 ms MarkObjects: 120.151001 ms  DeleteObjects: 93.373001 ms)
+
+Unloading 0 Unused Serialized files (Serialized files now loaded: 8)
+
+Unloading 0 unused Assets to reduce memory usage. Loaded Objects now: 19376.
+Total: 129.499008 ms (FindLiveObjects: 1.374000 ms CreateObjectMapping: 0.411000 ms MarkObjects: 127.688004 ms  DeleteObjects: 0.025000 ms)
+
+**DART** GLOBALSTART_MODE RELOAD_FRONTEND
+ASSET MANAGER: loading bundle frontend
+**DART** GLOBALSTART_MODE WAIT_FOR_RELOAD_FRONTEND
+ASSET MANAGER: loading bundle frontendeditor
+**DART** GLOBALSTART_MODE LOADING_FLOW_DUMMY_STATE
+**DART** Menu Text.Menu.Campaign
+T17NetRoomGameView.ClearCustomProperties: !!!!!!!!
+**DART** GLOBALSTART_MODE CHECK_INVITES
+**DART** GLOBALSTART_MODE SHOW_FRONTEND

@@ -1,0 +1,53 @@
+2024/11/21-18:58:12.795 5b191 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-18:58:12.795 5b191 Recovering log #568
+2024/11/21-18:58:12.797 5b191 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_to-do.office.com_0.indexeddb.leveldb/000568.log 
+2024/11/21-18:58:12.797 5b191 Delete type=2 #565
+2024/11/21-18:58:12.802 5b191 Level-0 table #573: started
+2024/11/21-18:58:12.805 5b191 Level-0 table #573: 278248 bytes OK
+2024/11/21-18:58:12.806 5b191 Delete type=0 #568
+2024/11/21-18:58:12.806 5b191 Manual compaction at level-0 from '\x00e\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at '\x00e\x00\x00\x05' @ 421216 : 1
+2024/11/21-18:58:12.806 5b191 Compacting 1@0 + 1@1 files
+2024/11/21-18:58:12.808 5b191 Generated table #574@0: 569 keys, 28315 bytes
+2024/11/21-18:58:12.808 5b191 Compacted 1@0 + 1@1 files => 28315 bytes
+2024/11/21-18:58:12.809 5b191 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-18:58:12.809 5b191 Delete type=2 #573
+2024/11/21-18:58:12.809 5b191 Manual compaction at level-0 from '\x00e\x00\x00\x05' @ 421216 : 1 .. '\x00f\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-18:58:12.815 5b191 Level-0 table #576: started
+2024/11/21-18:58:12.816 5b191 Level-0 table #576: 505 bytes OK
+2024/11/21-18:58:12.818 5b191 Delete type=2 #570
+2024/11/21-18:58:12.818 5b191 Delete type=0 #572
+2024/11/21-18:58:12.818 5b191 Manual compaction at level-0 from '\x00f\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at '\x00f\x00\x00\x05' @ 421234 : 1
+2024/11/21-18:58:12.818 5b191 Compacting 1@0 + 1@1 files
+2024/11/21-18:58:12.820 5b191 Generated table #577@0: 569 keys, 28312 bytes
+2024/11/21-18:58:12.820 5b191 Compacted 1@0 + 1@1 files => 28312 bytes
+2024/11/21-18:58:12.821 5b191 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-18:58:12.821 5b191 Delete type=2 #576
+2024/11/21-18:58:12.821 5b191 Manual compaction at level-0 from '\x00f\x00\x00\x05' @ 421234 : 1 .. '\x00g\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-18:58:12.822 5b191 Level-0 table #579: started
+2024/11/21-18:58:12.823 5b191 Level-0 table #579: 500 bytes OK
+2024/11/21-18:58:12.824 5b191 Delete type=2 #574
+2024/11/21-18:58:12.824 5b191 Delete type=0 #575
+2024/11/21-18:58:12.824 5b191 Manual compaction at level-0 from '\x00g\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at '\x00g\x00\x00\x05' @ 421250 : 1
+2024/11/21-18:58:12.824 5b191 Compacting 1@0 + 1@1 files
+2024/11/21-18:58:12.826 5b191 Generated table #580@0: 569 keys, 28308 bytes
+2024/11/21-18:58:12.826 5b191 Compacted 1@0 + 1@1 files => 28308 bytes
+2024/11/21-18:58:12.827 5b191 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/21-18:58:12.828 5b191 Delete type=2 #579
+2024/11/21-18:58:12.828 5b191 Manual compaction at level-0 from '\x00g\x00\x00\x05' @ 421250 : 1 .. '\x00h\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/21-18:58:12.829 5b191 Compacting 1@1 + 1@2 files
+2024/11/21-18:58:12.852 5b191 Generated table #581@1: 5994 keys, 2097488 bytes
+2024/11/21-18:58:12.852 5b191 Compacted 1@1 + 1@2 files => 2097488 bytes
+2024/11/21-18:58:12.853 5b191 compacted to: files[ 0 0 1 0 0 0 0 ]
+2024/11/21-18:58:12.854 5b191 Delete type=2 #577
+2024/11/21-19:48:21.697 5b192 Level-0 table #583: started
+2024/11/21-19:48:21.705 5b192 Level-0 table #583: 959381 bytes OK
+2024/11/21-19:48:21.708 5b192 Delete type=0 #578
+2024/11/21-19:48:21.708 5b192 Delete type=2 #580
+2024/11/21-19:48:21.708 5b192 Delete type=2 #562
+2024/11/21-19:56:29.937 5b192 Compacting 1@1 + 1@2 files
+2024/11/21-19:56:29.971 5b192 Generated table #584@1: 6155 keys, 2157788 bytes
+2024/11/21-19:56:29.972 5b192 Generated table #585@1: 36 keys, 3301 bytes
+2024/11/21-19:56:29.972 5b192 Compacted 1@1 + 1@2 files => 2161089 bytes
+2024/11/21-19:56:29.973 5b192 compacted to: files[ 0 0 2 0 0 0 0 ]
+2024/11/21-19:56:29.973 5b192 Delete type=2 #581
+2024/11/21-19:56:29.973 5b192 Delete type=2 #583

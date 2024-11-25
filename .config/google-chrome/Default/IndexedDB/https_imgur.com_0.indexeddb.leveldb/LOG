@@ -1,0 +1,13 @@
+2024/10/29-23:40:29.731 e52f Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/10/29-23:40:29.731 e52f Recovering log #10
+2024/10/29-23:40:29.732 e52f Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_imgur.com_0.indexeddb.leveldb/000010.log 
+2024/10/29-23:40:29.770 e530 Level-0 table #14: started
+2024/10/29-23:40:29.771 e530 Level-0 table #14: 3688 bytes OK
+2024/10/29-23:40:29.773 e530 Delete type=0 #10
+2024/10/29-23:40:29.773 e52e Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 235 : 1
+2024/10/29-23:40:29.773 e52e Compacting 1@0 + 1@1 files
+2024/10/29-23:40:29.774 e52e Generated table #15@0: 33 keys, 1536 bytes
+2024/10/29-23:40:29.774 e52e Compacted 1@0 + 1@1 files => 1536 bytes
+2024/10/29-23:40:29.776 e52e compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/10/29-23:40:29.776 e52e Delete type=2 #14
+2024/10/29-23:40:29.776 e52e Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 235 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

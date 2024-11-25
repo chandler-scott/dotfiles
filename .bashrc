@@ -125,3 +125,4 @@ PATH="$SCRIPTS:$PATH"
 shopt -s direxpand
 
 [ -f "/opt/omnetpp-6.0.3/setenv" ] && source "/opt/omnetpp-6.0.3/setenv" > /dev/null
+export NIXSHELLS=/usr/share/nix-shells

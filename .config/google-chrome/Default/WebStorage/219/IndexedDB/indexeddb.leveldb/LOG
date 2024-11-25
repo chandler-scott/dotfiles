@@ -1,0 +1,24 @@
+2024/08/23-23:17:02.688 4615e Reusing MANIFEST /home/chandler/.config/google-chrome/Default/WebStorage/219/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/08/23-23:17:02.688 4615e Recovering log #6
+2024/08/23-23:17:02.688 4615e Reusing old log /home/chandler/.config/google-chrome/Default/WebStorage/219/IndexedDB/indexeddb.leveldb/000006.log 
+2024/08/23-23:17:09.845 4616b Level-0 table #10: started
+2024/08/23-23:17:09.847 4616b Level-0 table #10: 596 bytes OK
+2024/08/23-23:17:09.849 4616b Delete type=0 #6
+2024/08/23-23:17:09.849 4615f Manual compaction at level-0 from '\x00\x04\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at '\x00\x04\x00\x00\x05' @ 84 : 1
+2024/08/23-23:17:09.849 4615f Compacting 1@0 + 1@1 files
+2024/08/23-23:17:09.850 4615f Generated table #11@0: 13 keys, 608 bytes
+2024/08/23-23:17:09.850 4615f Compacted 1@0 + 1@1 files => 608 bytes
+2024/08/23-23:17:09.851 4615f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/23-23:17:09.851 4615f Delete type=2 #10
+2024/08/23-23:17:09.852 4615f Manual compaction at level-0 from '\x00\x04\x00\x00\x05' @ 84 : 1 .. '\x00\x05\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/08/23-23:17:09.852 46160 Level-0 table #13: started
+2024/08/23-23:17:09.853 46160 Level-0 table #13: 591 bytes OK
+2024/08/23-23:17:09.854 46160 Delete type=2 #7
+2024/08/23-23:17:09.854 46160 Delete type=0 #9
+2024/08/23-23:17:09.855 4615f Manual compaction at level-0 from '\x00\x05\x00\x00\x00' @ 72057594037927935 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at '\x00\x05\x00\x00\x05' @ 101 : 1
+2024/08/23-23:17:09.855 4615f Compacting 1@0 + 1@1 files
+2024/08/23-23:17:09.856 4615f Generated table #14@0: 15 keys, 621 bytes
+2024/08/23-23:17:09.856 4615f Compacted 1@0 + 1@1 files => 621 bytes
+2024/08/23-23:17:09.857 4615f compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/08/23-23:17:09.857 4615f Delete type=2 #13
+2024/08/23-23:17:09.857 4615f Manual compaction at level-0 from '\x00\x05\x00\x00\x05' @ 101 : 1 .. '\x00\x06\x00\x00\x00' @ 0 : 0; will stop at (end)

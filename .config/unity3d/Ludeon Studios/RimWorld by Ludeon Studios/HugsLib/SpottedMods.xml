@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Mods>
+  <mod packageId="brrainz.harmony" />
+  <mod packageId="Ludeon.RimWorld" />
+  <mod packageId="Murmur.WallLight" />
+  <mod packageId="OskarPotocki.VanillaFactionsExpanded.Core" />
+  <mod packageId="VanillaExpanded.VTEXE" />
+  <mod packageId="VanillaExpanded.VPlantsE" />
+  <mod packageId="VanillaExpanded.VFEPower" />
+  <mod packageId="VanillaExpanded.VFEFarming" />
+  <mod packageId="VanillaExpanded.VFECore" />
+  <mod packageId="VanillaExpanded.VCEF" />
+  <mod packageId="Mlie.SimplyMoreBridges" />
+  <mod packageId="SF.Grim.Reality" />
+  <mod packageId="UnlimitedHugs.HugsLib" />
+  <mod packageId="EdB.PrepareCarefully" />
+  <mod packageId="Community.Psychology.UnofficialUpdate" />
+  <mod packageId="RadZerp.naturalPaths" />
+  <mod packageId="Haplo.Miscellaneous.Training" />
+  <mod packageId="m00nl1ght.MapPreview" />
+  <mod packageId="Jaxe.Bubbles" />
+  <mod packageId="m00nl1ght.GeologicalLandforms" />
+  <mod packageId="Dubwise.DubsSkylights" />
+  <mod packageId="Dubwise.DubsBadHygiene" />
+  <mod packageId="avilmask.CommonSense" />
+  <mod packageId="CETeam.CombatExtended" />
+  <mod packageId="BiomesTeam.BiomesCore" />
+</Mods>

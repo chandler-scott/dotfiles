@@ -1,0 +1,5 @@
+
+export hard_drive="/mnt/hard_drive"
+export src="$hard_drive/src"
+export scripts="$src/scripts"
+export notes="$hard_drive/notes"

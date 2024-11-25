@@ -1,0 +1,74 @@
+2024/11/21-09:48:12.619 5b191 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_etsu365-my.sharepoint.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/21-09:48:12.620 5b191 Recovering log #1594
+2024/11/21-09:48:12.620 5b191 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_etsu365-my.sharepoint.com_0.indexeddb.leveldb/001594.log 
+2024/11/21-09:48:21.018 5b192 Level-0 table #1603: started
+2024/11/21-09:48:21.042 5b192 Level-0 table #1603: 1168534 bytes OK
+2024/11/21-09:48:21.046 5b192 Delete type=0 #1594
+2024/11/21-09:48:21.168 5b192 Compacting 1@1 + 5@2 files
+2024/11/21-09:48:21.231 5b192 Generated table #1604@1: 12234 keys, 2326115 bytes
+2024/11/21-09:48:21.271 5b192 Generated table #1605@1: 15630 keys, 2379489 bytes
+2024/11/21-09:48:21.309 5b192 Generated table #1606@1: 15642 keys, 2379713 bytes
+2024/11/21-09:48:21.346 5b192 Generated table #1607@1: 15654 keys, 2379944 bytes
+2024/11/21-09:48:21.367 5b192 Generated table #1608@1: 10783 keys, 2154728 bytes
+2024/11/21-09:48:21.367 5b192 Compacted 1@1 + 5@2 files => 11619989 bytes
+2024/11/21-09:48:21.368 5b192 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/21-09:48:24.770 5b191 Level-0 table #1610: started
+2024/11/21-09:48:24.792 5b191 Level-0 table #1610: 2053611 bytes OK
+2024/11/21-09:48:24.794 5b191 Delete type=2 #1603
+2024/11/21-09:48:24.794 5b191 Delete type=2 #1596
+2024/11/21-09:48:24.794 5b191 Delete type=2 #1598
+2024/11/21-09:48:24.794 5b191 Delete type=2 #1600
+2024/11/21-09:48:24.794 5b191 Delete type=2 #1597
+2024/11/21-09:48:24.794 5b191 Delete type=0 #1602
+2024/11/21-09:48:24.795 5b191 Delete type=2 #1599
+2024/11/21-09:48:25.184 5b193 Compacting 1@1 + 5@2 files
+2024/11/21-09:48:25.258 5b193 Generated table #1611@1: 13224 keys, 2343589 bytes
+2024/11/21-09:48:25.298 5b193 Generated table #1612@1: 15630 keys, 2379999 bytes
+2024/11/21-09:48:25.335 5b193 Generated table #1613@1: 15648 keys, 2380105 bytes
+2024/11/21-09:48:25.372 5b193 Generated table #1614@1: 15660 keys, 2378688 bytes
+2024/11/21-09:48:25.391 5b193 Generated table #1615@1: 9597 keys, 1982530 bytes
+2024/11/21-09:48:25.391 5b193 Compacted 1@1 + 5@2 files => 11464911 bytes
+2024/11/21-09:48:25.393 5b193 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/21-09:48:25.393 5b193 Delete type=2 #1607
+2024/11/21-09:48:25.393 5b193 Delete type=2 #1606
+2024/11/21-09:48:25.393 5b193 Delete type=2 #1610
+2024/11/21-09:48:25.393 5b193 Delete type=2 #1604
+2024/11/21-09:48:25.393 5b193 Delete type=2 #1608
+2024/11/21-09:48:25.394 5b193 Delete type=2 #1605
+2024/11/21-09:48:45.871 5b192 Level-0 table #1617: started
+2024/11/21-09:48:45.902 5b192 Level-0 table #1617: 1623776 bytes OK
+2024/11/21-09:48:45.905 5b192 Delete type=0 #1609
+2024/11/21-09:48:45.912 5b191 Compacting 1@1 + 5@2 files
+2024/11/21-09:48:45.951 5b191 Generated table #1618@1: 14065 keys, 2332848 bytes
+2024/11/21-09:48:45.990 5b191 Generated table #1619@1: 15624 keys, 2379774 bytes
+2024/11/21-09:48:46.032 5b191 Generated table #1620@1: 15648 keys, 2380173 bytes
+2024/11/21-09:48:46.069 5b191 Generated table #1621@1: 15654 keys, 2378903 bytes
+2024/11/21-09:48:46.088 5b191 Generated table #1622@1: 10205 keys, 2078697 bytes
+2024/11/21-09:48:46.088 5b191 Compacted 1@1 + 5@2 files => 11550395 bytes
+2024/11/21-09:48:46.090 5b191 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/21-09:48:46.090 5b191 Delete type=2 #1614
+2024/11/21-09:48:46.090 5b191 Delete type=2 #1613
+2024/11/21-09:48:46.091 5b191 Delete type=2 #1612
+2024/11/21-09:48:46.091 5b191 Delete type=2 #1611
+2024/11/21-09:48:46.091 5b191 Delete type=2 #1615
+2024/11/21-09:48:46.091 5b191 Delete type=2 #1617
+2024/11/21-18:56:15.384 5b192 Level-0 table #1624: started
+2024/11/21-18:56:15.404 5b192 Level-0 table #1624: 1615985 bytes OK
+2024/11/21-18:56:15.407 5b192 Delete type=0 #1616
+2024/11/21-18:56:15.408 5b192 Manual compaction at level-0 from (begin) .. (end); will stop at (end)
+2024/11/21-18:56:15.408 5b192 Manual compaction at level-1 from (begin) .. (end); will stop at '\x00\x06\x02\x1f\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b\x00\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b' @ 3437317 : 1
+2024/11/21-18:56:15.408 5b192 Compacting 1@1 + 5@2 files
+2024/11/21-18:56:15.446 5b192 Generated table #1625@1: 15020 keys, 2371906 bytes
+2024/11/21-18:56:15.483 5b192 Generated table #1626@1: 15630 keys, 2378811 bytes
+2024/11/21-18:56:15.528 5b192 Generated table #1627@1: 15648 keys, 2379612 bytes
+2024/11/21-18:56:15.564 5b192 Generated table #1628@1: 15340 keys, 2385694 bytes
+2024/11/21-18:56:15.578 5b192 Generated table #1629@1: 8073 keys, 1697079 bytes
+2024/11/21-18:56:15.578 5b192 Compacted 1@1 + 5@2 files => 11213102 bytes
+2024/11/21-18:56:15.580 5b192 compacted to: files[ 0 0 5 0 0 0 0 ]
+2024/11/21-18:56:15.580 5b192 Delete type=2 #1621
+2024/11/21-18:56:15.581 5b192 Delete type=2 #1620
+2024/11/21-18:56:15.581 5b192 Delete type=2 #1622
+2024/11/21-18:56:15.581 5b192 Delete type=2 #1624
+2024/11/21-18:56:15.581 5b192 Delete type=2 #1619
+2024/11/21-18:56:15.581 5b192 Delete type=2 #1618
+2024/11/21-18:56:15.584 5b192 Manual compaction at level-1 from '\x00\x06\x02\x1f\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b\x00\x01$\x00f\x00f\x00b\x002\x008\x004\x001\x007\x00-\x003\x00e\x008\x007\x00-\x004\x00b\x00e\x00c\x00-\x008\x001\x000\x005\x00-\x00c\x008\x00e\x009\x00e\x008\x004\x005\x000\x00f\x005\x00b' @ 3437317 : 1 .. (end); will stop at (end)

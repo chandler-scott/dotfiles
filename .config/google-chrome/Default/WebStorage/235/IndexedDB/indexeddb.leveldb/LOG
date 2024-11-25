@@ -1,0 +1,6 @@
+2024/11/21-18:56:37.663 5b193 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/WebStorage/235/IndexedDB/indexeddb.leveldb/MANIFEST-000001
+2024/11/21-18:56:37.663 5b193 Recovering log #3
+2024/11/21-18:56:37.673 5b193 Reusing old log /home/chandler/.config/google-chrome/Default/WebStorage/235/IndexedDB/indexeddb.leveldb/000003.log 
+2024/11/21-18:56:40.054 5b19e Level-0 table #5: started
+2024/11/21-18:56:40.076 5b19e Level-0 table #5: 2618509 bytes OK
+2024/11/21-18:56:40.078 5b19e Delete type=0 #3

@@ -1,0 +1,31 @@
+2024/11/05-21:12:40.128 1559 Reusing MANIFEST /home/chandler/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/MANIFEST-000001
+2024/11/05-21:12:40.128 1559 Recovering log #954
+2024/11/05-21:12:40.128 1559 Reusing old log /home/chandler/.config/google-chrome/Default/IndexedDB/https_outlook.office.com_0.indexeddb.leveldb/000954.log 
+2024/11/05-21:12:40.128 1559 Delete type=2 #951
+2024/11/05-21:12:43.651 155b Level-0 table #959: started
+2024/11/05-21:12:43.652 155b Level-0 table #959: 11786 bytes OK
+2024/11/05-21:12:43.653 1565 Current memtable full; waiting...
+2024/11/05-21:12:43.654 155b Delete type=0 #954
+2024/11/05-21:12:43.654 1559 Level-0 table #961: started
+2024/11/05-21:12:43.655 1559 Level-0 table #961: 538 bytes OK
+2024/11/05-21:12:43.657 1559 Delete type=0 #958
+2024/11/05-21:12:43.657 1559 Manual compaction at level-0 from ' /\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 0\x01\x00\x00\x00' @ 0 : 0; will stop at ' /\x01\x00\x00\x05' @ 37794 : 1
+2024/11/05-21:12:43.657 1559 Compacting 2@0 + 1@1 files
+2024/11/05-21:12:43.658 1559 Generated table #962@0: 35 keys, 6899 bytes
+2024/11/05-21:12:43.658 1559 Compacted 2@0 + 1@1 files => 6899 bytes
+2024/11/05-21:12:43.659 1559 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/05-21:12:43.659 1559 Delete type=2 #959
+2024/11/05-21:12:43.659 1559 Delete type=2 #961
+2024/11/05-21:12:43.660 1559 Manual compaction at level-0 from ' 0\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 1\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-21:12:43.660 1559 Manual compaction at level-0 from ' /\x01\x00\x00\x05' @ 37794 : 1 .. ' 0\x01\x00\x00\x00' @ 0 : 0; will stop at (end)
+2024/11/05-21:46:02.348 1559 Level-0 table #964: started
+2024/11/05-21:46:02.349 1559 Level-0 table #964: 1316 bytes OK
+2024/11/05-21:46:02.351 1559 Delete type=0 #960
+2024/11/05-21:46:02.351 1559 Delete type=2 #956
+2024/11/05-21:46:02.351 1559 Manual compaction at level-0 from ' 1\x01\x00\x00\x00' @ 72057594037927935 : 1 .. ' 2\x01\x00\x00\x00' @ 0 : 0; will stop at ' 1\x01\x00\x00\x05' @ 37867 : 1
+2024/11/05-21:46:02.351 1559 Compacting 1@0 + 1@1 files
+2024/11/05-21:46:02.352 1559 Generated table #965@0: 45 keys, 7011 bytes
+2024/11/05-21:46:02.352 1559 Compacted 1@0 + 1@1 files => 7011 bytes
+2024/11/05-21:46:02.354 1559 compacted to: files[ 0 1 1 0 0 0 0 ]
+2024/11/05-21:46:02.354 1559 Delete type=2 #964
+2024/11/05-21:46:02.354 1559 Manual compaction at level-0 from ' 1\x01\x00\x00\x05' @ 37867 : 1 .. ' 2\x01\x00\x00\x00' @ 0 : 0; will stop at (end)

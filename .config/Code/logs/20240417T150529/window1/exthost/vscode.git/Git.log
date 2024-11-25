@@ -1,0 +1,22 @@
+2024-04-17 15:05:31.658 [info] Log level: Info
+2024-04-17 15:05:31.658 [info] Validating found git in: "git"
+2024-04-17 15:05:31.658 [info] Using git "2.25.1" from "git"
+2024-04-17 15:05:31.658 [info] > git rev-parse --show-toplevel [6ms]
+2024-04-17 15:05:31.658 [info] > git rev-parse --git-dir --git-common-dir [14ms]
+2024-04-17 15:05:31.658 [info] Open repository: /opt/smart_farm_network_sim
+2024-04-17 15:05:31.673 [info] > git rev-parse --show-toplevel [9ms]
+2024-04-17 15:05:31.674 [info] > git config --get commit.template [12ms]
+2024-04-17 15:05:31.685 [info] > git rev-parse --show-toplevel [4ms]
+2024-04-17 15:05:31.734 [info] > git rev-parse --show-toplevel [20ms]
+2024-04-17 15:05:31.735 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [52ms]
+2024-04-17 15:05:31.965 [info] > git status -z -uall [14ms]
+2024-04-17 15:05:31.991 [info] > git merge-base refs/heads/master refs/remotes/origin/master [17ms]
+2024-04-17 15:05:31.998 [info] > git config --get commit.template [10ms]
+2024-04-17 15:05:32.002 [info] > git rev-list --count --left-right refs/heads/master...refs/remotes/origin/master [6ms]
+2024-04-17 15:05:32.015 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [4ms]
+2024-04-17 15:05:32.015 [info] > git diff --name-status -z --diff-filter=ADMR c0ccf14b9f1f07257a0e65c3fa57262179e9c39c...refs/remotes/origin/master [9ms]
+2024-04-17 15:05:32.055 [info] > git status -z -uall [4ms]
+2024-04-17 15:05:32.162 [info] > git check-ignore -v -z --stdin [17ms]
+2024-04-17 15:05:42.116 [info] > git config --get commit.template [4ms]
+2024-04-17 15:05:42.116 [info] > git for-each-ref --format=%(refname)%00%(upstream:short)%00%(objectname)%00%(upstream:track)%00%(upstream:remotename)%00%(upstream:remoteref) refs/heads/master refs/remotes/master [1ms]
+2024-04-17 15:05:42.121 [info] > git status -z -uall [2ms]

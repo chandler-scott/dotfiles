@@ -1,0 +1,34 @@
+Generating report for minidump
+
+Application version 4.26.2.0
+ ... built from changelist 0
+
+OS version Linux 5.15.0-101-generic (network name: poseidon)
+Running 8 x86_64 processors (16 logical cores)
+Exception was "SIGSEGV: invalid attempt to read memory at address 0x0000000000000290"
+
+<SOURCE START>
+<SOURCE END>
+
+<CALLSTACK START>
+CarlaUE4-Linux-Shipping!FVulkanSurface::EvictSurface(FVulkanDevice&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/VulkanRHI/Private/VulkanTexture.cpp:963]
+CarlaUE4-Linux-Shipping!FVulkanTextureBase::Evict(FVulkanDevice&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/VulkanRHI/Private/VulkanTexture.cpp:2487]
+CarlaUE4-Linux-Shipping!VulkanRHI::FVulkanResourceHeap::EvictOne(FVulkanDevice&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/VulkanRHI/Private/VulkanMemory.cpp:1749]
+CarlaUE4-Linux-Shipping!VulkanRHI::FMemoryManager::ReleaseFreedPages(FVulkanCommandListContext&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/VulkanRHI/Private/VulkanMemory.cpp:2437]
+CarlaUE4-Linux-Shipping!FVulkanCommandListContext::RHIEndFrame() [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/VulkanRHI/Private/VulkanRHI.cpp:911]
+CarlaUE4-Linux-Shipping!FRHICommandListExecutor::ExecuteInner_DoExecute(FRHICommandListBase&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/RHI/Private/RHICommandList.cpp:373]
+CarlaUE4-Linux-Shipping!FExecuteRHIThreadTask::DoTask(ENamedThreads::Type, TRefCountPtr<FGraphEvent> const&) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/RHI/Private/RHICommandList.cpp:428]
+CarlaUE4-Linux-Shipping!TGraphTask<FExecuteRHIThreadTask>::ExecuteTask(TArray<FBaseGraphTask*, TSizedDefaultAllocator<32> >&, ENamedThreads::Type) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/Core/Public/Async/TaskGraphInterfaces.h:886]
+CarlaUE4-Linux-Shipping!FNamedTaskThread::ProcessTasksNamedThread(int, bool) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/Core/Private/Async/TaskGraph.cpp:709]
+CarlaUE4-Linux-Shipping!FNamedTaskThread::ProcessTasksUntilQuit(int) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/Core/Private/Async/TaskGraph.cpp:600]
+CarlaUE4-Linux-Shipping!FRHIThread::Run() [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/RenderCore/Private/RenderingThread.cpp:319]
+CarlaUE4-Linux-Shipping!FRunnableThreadPThread::Run() [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/Core/Private/HAL/PThreadRunnableThread.cpp:25]
+CarlaUE4-Linux-Shipping!FRunnableThreadPThread::_ThreadProc(void*) [/home/jenkins/UnrealEngine_4.26/Engine/Source/Runtime/Core/Private/HAL/PThreadRunnableThread.h:185]
+libpthread.so.0!UnknownFunction(0x8608)
+libc.so.6!clone(+0x42)
+
+<CALLSTACK END>
+
+0 loaded modules
+
+Report end!

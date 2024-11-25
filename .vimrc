@@ -1,3 +1,4 @@
+
 syntax enable
 packadd! dracula | colorscheme dracula
 
@@ -28,6 +29,15 @@ inoremap ( ()<Left>
 inoremap [ []<Left>
 inoremap { {}<Left>
 
+" Tmux
+if &term =~ '^screen'
+    " tmux will send xterm-style keys when its xterm-keys option is on
+    execute "set <xUp>=\e[1;*A"
+    execute "set <xDown>=\e[1;*B"
+    execute "set <xRight>=\e[1;*C"
+    execute "set <xLeft>=\e[1;*D"
+endif
+
 " Nix
 autocmd FileType nix source ~/.vim/syntax/nix.vim
 autocmd BufRead,BufNewFile *.nix set filetype=nix
@@ -35,6 +45,7 @@ autocmd FileType shell.nix setlocal tabstop=2 shiftwidth=2 expandtab
 
 
 " Plugins
+let g:UltiSnipsSnippetDirectories = ["~/.vim/Ultisnips"]
 let g:UltiSnipsExpandTrigger = '<tab>'
 let g:UltiSnipsJumpForwardTrigger = '<tab>'
 let g:UltiSnipsJumpBackwardTrigger = '<s-tab>'

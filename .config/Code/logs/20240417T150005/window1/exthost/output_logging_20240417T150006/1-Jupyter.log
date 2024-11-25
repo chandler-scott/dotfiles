@@ -1,0 +1,60 @@
+Visual Studio Code (1.88.1, undefined, desktop)
+Jupyter Extension Version: 2024.3.1.
+Python Extension Version: 2024.4.1.
+Pylance Extension Version: 2024.4.1.
+Platform: linux (x64).
+Workspace folder /opt/smart_farm_network_sim, Home = /home/chandler
+15:00:07.328 [info] Starting Kernel startUsingPythonInterpreter, .jvsc74a57bd0916dbcbb3f70747c44a77c7bcd40155683ae19c65e1c03b4aa3499c5328201f1./bin/python3./bin/python3.-m#ipykernel_launcher  (Python Path: /bin/python3, Unknown, Python 3.8.10, 3.8.10) for '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' (disableUI=true)
+15:00:07.431 [warn] Failed to get activated env vars for /bin/python3 in 103ms
+15:00:07.432 [warn] Failed to get activated env vars for /bin/python3 in 85ms
+15:00:07.438 [info] Process Execution: /bin/python3 -c "import site;print("USER_BASE_VALUE");print(site.USER_BASE);print("USER_BASE_VALUE");"
+15:00:07.455 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+15:00:07.455 [error] Unable to determine site packages path for python /bin/python3 (Unknown)
+15:00:07.458 [info] Process Execution: /bin/python3 -m pip list
+15:00:07.460 [info] Process Execution: /bin/python3 -c "import ipykernel; print(ipykernel.__version__); print("5dc3a68c-e34e-4080-9c3e-2a532b2ccb4d"); print(ipykernel.__file__)"
+15:00:07.464 [info] Process Execution: /bin/python3 -m ipykernel_launcher --f=~/.local/share/jupyter/runtime/kernel-v2-61061fBHXGQihBE1X.json
+    > cwd: /opt/smart_farm_network_sim/smart_farm
+15:00:07.964 [info] Process Execution: /bin/python3 ~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/pythonFiles/printJupyterDataDir.py
+15:00:40.323 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+15:00:40.642 [warn] Cell completed with errors [hd [Error]: name 'results_filepath' is not defined
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'NameError',
+  evalue: "name 'results_filepath' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[1], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mimport\x1B[39;00m \x1B[38;5;21;01mpandas\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m \x1B[38;5;21;01mpd\x1B[39;00m\n' +
+      "\x1B[0;32m----> 3\x1B[0m csv_file \x1B[38;5;241m=\x1B[39m \x1B[38;5;124mf\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;132;01m{\x1B[39;00mresults_filepath\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m/Results_4-17_ACK.csv\x1B[39m\x1B[38;5;124m'\x1B[39m\n" +
+      '\x1B[1;32m      4\x1B[0m df \x1B[38;5;241m=\x1B[39m pd\x1B[38;5;241m.\x1B[39mread_csv(csv_file, low_memory\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mFalse\x1B[39;00m)\n' +
+      "\x1B[1;32m      7\x1B[0m df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mloc[(df[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtype\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mscalar\x1B[39m\x1B[38;5;124m'\x1B[39m), [\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m]]\n",
+    "\x1B[0;31mNameError\x1B[0m: name 'results_filepath' is not defined"
+  ]
+}
+15:00:40.643 [info] Cell 4 completed in 0.31s (start: 1713380440332, end: 1713380440642)
+15:00:45.929 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+15:00:45.956 [warn] Cell completed with errors [hd [Error]: name 'results_filepath' is not defined
+	at r.execute (~/.vscode/extensions/ms-toolsai.jupyter-2024.3.1-linux-x64/dist/extension.node.js:327:4943)] {
+  ename: 'NameError',
+  evalue: "name 'results_filepath' is not defined",
+  traceback: [
+    '\x1B[0;31m---------------------------------------------------------------------------\x1B[0m',
+    '\x1B[0;31mNameError\x1B[0m                                 Traceback (most recent call last)',
+    'Cell \x1B[0;32mIn[2], line 3\x1B[0m\n' +
+      '\x1B[1;32m      1\x1B[0m \x1B[38;5;28;01mimport\x1B[39;00m \x1B[38;5;21;01mpandas\x1B[39;00m \x1B[38;5;28;01mas\x1B[39;00m \x1B[38;5;21;01mpd\x1B[39;00m\n' +
+      "\x1B[0;32m----> 3\x1B[0m csv_file \x1B[38;5;241m=\x1B[39m \x1B[38;5;124mf\x1B[39m\x1B[38;5;124m'\x1B[39m\x1B[38;5;132;01m{\x1B[39;00mresults_filepath\x1B[38;5;132;01m}\x1B[39;00m\x1B[38;5;124m/Results_4-17_NOACK.csv\x1B[39m\x1B[38;5;124m'\x1B[39m\n" +
+      '\x1B[1;32m      4\x1B[0m df \x1B[38;5;241m=\x1B[39m pd\x1B[38;5;241m.\x1B[39mread_csv(csv_file, low_memory\x1B[38;5;241m=\x1B[39m\x1B[38;5;28;01mFalse\x1B[39;00m)\n' +
+      "\x1B[1;32m      7\x1B[0m df \x1B[38;5;241m=\x1B[39m df\x1B[38;5;241m.\x1B[39mloc[(df[\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mtype\x1B[39m\x1B[38;5;124m'\x1B[39m] \x1B[38;5;241m==\x1B[39m \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mscalar\x1B[39m\x1B[38;5;124m'\x1B[39m), [\x1B[38;5;124m'\x1B[39m\x1B[38;5;124mname\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mmodule\x1B[39m\x1B[38;5;124m'\x1B[39m, \x1B[38;5;124m'\x1B[39m\x1B[38;5;124mvalue\x1B[39m\x1B[38;5;124m'\x1B[39m]]\n",
+    "\x1B[0;31mNameError\x1B[0m: name 'results_filepath' is not defined"
+  ]
+}
+15:00:45.956 [info] Cell 4 completed in 0.003s (start: 1713380445953, end: 1713380445956)
+15:01:06.124 [info] Handle Execution of Cells 4 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+15:01:06.150 [info] Cell 4 completed in 0.019s (start: 1713380466131, end: 1713380466150)
+15:01:08.034 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+15:01:08.593 [info] Cell 6 completed in 0.548s (start: 1713380468045, end: 1713380468593)
+15:01:22.388 [info] Handle Execution of Cells 6 for /opt/smart_farm_network_sim/smart_farm/analysis.ipynb
+15:01:22.518 [info] Cell 6 completed in 0.117s (start: 1713380482400, end: 1713380482517)
+15:01:58.733 [info] Disposing HostJupyterExecution
+15:01:58.733 [info] Dispose Kernel '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb' associated with '/opt/smart_farm_network_sim/smart_farm/analysis.ipynb'
+15:01:58.739 [info] Disposing HostJupyterExecution
