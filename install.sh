@@ -12,7 +12,6 @@ TMUX_SELECTED=true
 
 # Base and conditional dotfiles
 always_copy=(
-    ".config"
     ".profile"
 )
 
@@ -148,6 +147,68 @@ copy_dotfiles() {
         cp zsh/dracula.zsh-theme $HOME/.oh-my-zsh/themes/dracula.zsh-theme
         cp -r zsh/lib/ $HOME/.oh-my-zsh/themes/
         rm -rf zsh
+    fi
+
+    if [[ $VIM_SELECTED == true ]]; then
+        echo "Installing vim-plug..."
+        if [ ! -f ~/.vim/autoload/plug.vim ]; then
+            curl -fLo ~/.vim/autoload/plug.vim --create-dirs \
+            https://raw.githubusercontent.com/junegunn/vim-plug/master/plug.vim
+        else
+            echo "vim-plug is already installed."
+        fi
+
+        # Step 2: Install clangd (C Language Server)
+        echo "Installing clangd (C Language Server)..."
+
+        sudo apt update
+        sudo apt install -y clangd
+
+        # Step 3: Install coc.nvim plugin in Vim
+        echo "Configuring vim to use coc.nvim..."
+        if ! grep -q "plug#begin" ~/.vimrc; then
+            cat <<EOL >> ~/.vimrc
+
+" Initialize vim-plug
+call plug#begin('~/.vim/plugged')
+
+" Add coc.nvim plugin for Language Server Protocol (LSP) support
+Plug 'neoclide/coc.nvim', {'branch': 'release'}
+
+" End vim-plug configuration
+call plug#end()
+
+" Enable coc.nvim extensions globally
+let g:coc_global_extensions = ['coc-clangd']
+
+EOL
+        else
+            echo "coc.nvim plugin already added to ~/.vimrc"
+        fi
+
+        # Step 4: Install the coc-clangd extension for Vim (via coc.nvim)
+        echo "Installing coc-clangd extension..."
+        vim +PlugInstall +qall
+        vim +CocInstall coc-clangd +qall
+
+        # Step 5: Verify clangd Installation
+        echo "Verifying clangd installation..."
+        clangd --version
+
+        # Step 6: Optional - Add clangd specific settings (if needed)
+        echo "Configuring clangd settings..."
+        if [ ! -f ~/.vim/coc-settings.json ]; then
+            cat <<EOL > ~/.vim/coc-settings.json
+{
+    "clangd.arguments": [
+        "--compile-commands-dir=/path/to/your/build/directory"
+    ]
+}
+EOL
+        else
+            echo "clangd settings already configured in ~/.vim/coc-settings.json"
+        fi
+
     fi
 }
 
