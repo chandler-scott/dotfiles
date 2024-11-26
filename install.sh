@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/bin/zsh
 
 # Install script for dotfiles
 # Author: Chandler Scott
@@ -163,6 +163,10 @@ copy_dotfiles() {
 
         sudo apt update
         sudo apt install -y clangd
+        curl -o- https://raw.githubusercontent.com/nvm-sh/nvm/v0.39.3/install.sh | bash
+        source ~/.bashrc
+        source ~/.zshrc
+        nvm install 16
 
         # Step 3: Install coc.nvim plugin in Vim
         echo "Configuring vim to use coc.nvim..."
